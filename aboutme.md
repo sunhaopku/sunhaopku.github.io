@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Ph.D. Candidate @ Peking University.
+subtitle: Ph.D. Candidate @ Peking University
 ---
 
 - I'm now a Ph.D. student in Department of Machine Intelligence at Peking University, woring with [Prof. Yan Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm).
@@ -22,5 +22,4 @@ In the summer of 2021, I was a research intern at Technonology Innovation Lab of
 ### Honors and Awards
 
 - **Jun 2021** Outstanding Graduate of University of  Electronic Science and Technology of China (Top 10% of all graduates in the university)
-
 - **Jun 2021** Outstanding Graduation Thesis for Undergraduates (Top 12 for all graduates in the computer science department)
