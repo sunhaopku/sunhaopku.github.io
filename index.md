@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Greetings from Sun Has!
+title: Greetings from Sun Hao!
 subtitle: PhD Candidate @ Peking University
 use-site-title: true
 bigimg:
   - "/img/hualian_1.JPG" : "Hualien, Taiwan, China (2019)"
-  - "/img/hualian_2.JPG" : "Hualien, TaiWan, China (2019)"
+  - "/img/hualian_2.JPG" : "Hualien, Taiwan, China (2019)"
 ---
 ## News
 <i class="about-text">
@@ -21,7 +21,7 @@ My paper entitled "PeriodicMove: Shift-aware Human Mobility Recovery with Graph 
 <i class="about-text">
 <span class="fa fa-paper-plane about-icon"></span>
 </i>
-My paper entitled "Personalized Dynamic Knowledge-aware Recommendation with Hybrid Explanations" was accepted by *DASFAA 2020*.
+My paper entitled "Personalized Dynamic Knowledge-aware Recommendation with Hybrid Explanations" was accepted by *DASFAA 2021*.
 
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
