@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Greetings from Sun Hao!
-subtitle: PhD Candidate @ Peking University
+subtitle: Ph.D. Candidate @ Peking University
 use-site-title: true
 bigimg:
   - "/img/hualian_1.JPG" : "Hualien, Taiwan, China (2019)"
