@@ -13,14 +13,17 @@ This is a collection of some research projects I've worked on.
 
 <img src="../img/conference-paper.png" height="20px">
 *CIKM'21* PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network. [[pdf]](resources/cikm_2021_sun.pdf) 
+
 **Hao Sun**, Changjie Yang, Liwei Deng, Fan Zhou, Feiteng Huang, and Kai Zheng
 
 <img src="../img/conference-paper.png" height="20px">
 *DASFAA'21* Personalized Dynamic Knowledge-aware Recommendation with Hybrid Explanations. [[pdf]](resources/dasfaa_2021_sun.pdf)
+
 **Hao Sun**, Zijian Wu, Yue Cui, Liwei Deng, Yan Zhao, and Kai Zheng
 
 <img src="../img/journal-article.png" height="20px">
 *TOIS'21* Sequential-knowledge-aware Next POI Recommendation: A Meta-learning Approach. [[pdf]](resources/tois_2021_cui.pdf)  
+
 Yue Cui, **Hao Sun**, Yan Zhao, Hongzhi Yin, Kai Zheng
 
 <img src="../img/journal-article.png" height="20px">
