@@ -19,6 +19,8 @@ In the summer of 2021, I was a research intern at Technonology Innovation Lab of
 
 - **Sep 2018 & Dec 2019** National Scholarship (The highest honor for undergraduates, top 2% nationwide)
 
+- **Nov 2020** Huiding Technology Scholarship (Six winners per year for undergraduates)
+
 - **Jan 2019 & Jan 2020** Outstanding Student Scholarship (Top 10% in the computer science department)
 
 - **Dec 2018 & Dec 2019 & Dec 2020** Excellent Student Scholarship (Top 10% in the computer science department)
