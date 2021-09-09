@@ -26,6 +26,6 @@ This is a collection of some research projects I've worked on.
 Yue Cui, **Hao Sun**, Yan Zhao, Hongzhi Yin, Kai Zheng
 
 <img src="../img/journal-article.png" height="20px">
-*TIST'20* Efficient and Effective Similar Subtrajectory Search: A Spatial-aware Comprehension Approach. [[pdf]](resources/tist_2021_deng.pdf)\\
+*TIST'21* Efficient and Effective Similar Subtrajectory Search: A Spatial-aware Comprehension Approach. [[pdf]](resources/tist_2021_deng.pdf)\\
 Liwei Deng, **Hao Sun**, Rui Sun, Yan Zhao, Han Su
 
