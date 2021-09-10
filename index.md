@@ -6,9 +6,9 @@ use-site-title: true
 bigimg:
   - "/img/hualian_1.JPG" : "Hualien, Taiwan, China (2019)"
   - "/img/hualian_2.JPG" : "Hualien, Taiwan, China (2019)"
-  - "/img/bipenggou_1.JPG" : "Bipenggou, Sichuan, China (2021)"
-  - "/img/bipenggou_2.JPG" : "Bipenggou, Sichuan, China (2021)"
-  - "/img/bipenggou_3.JPG" : "Bipenggou, Sichuan, China (2021)"
+  - "/img/bipenggou_1.jpg" : "Bipenggou, Sichuan, China (2021)"
+  - "/img/bipenggou_2.jpg" : "Bipenggou, Sichuan, China (2021)"
+  - "/img/bipenggou_3.jpg" : "Bipenggou, Sichuan, China (2021)"
 ---
 ## News
 <i class="about-text">
