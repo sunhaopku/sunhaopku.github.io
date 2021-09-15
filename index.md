@@ -4,12 +4,12 @@ title: Greetings from Sun Hao!
 subtitle: Ph.D. Candidate @ Peking University
 use-site-title: true
 bigimg:
-  - "/img/hualian_1.JPG" : "Hualien, Taiwan, China (2019)"
-  - "/img/hualian_2.JPG" : "Hualien, Taiwan, China (2019)"
-  - "/img/ali_1.JPG" : "Ali Mountain, Taiwan, China (2019)"
-  - "/img/bipenggou_1.jpg" : "Bipenggou, Sichuan, China (2021)"
+  - "/img/ali_1.jpg" : "Ali Mountain, Taiwan, China (2019)"
   - "/img/bipenggou_2.jpg" : "Bipenggou, Sichuan, China (2021)"
   - "/img/bipenggou_3.jpg" : "Bipenggou, Sichuan, China (2021)"
+  - "/img/hualian_1.JPG" : "Hualien, Taiwan, China (2019)"
+  - "/img/hualian_2.jpg" : "Hualien, Taiwan, China (2019)"
+  - "/img/bipenggou_1.jpg" : "Bipenggou, Sichuan, China (2021)"
 ---
 ## News
 <i class="about-text">
