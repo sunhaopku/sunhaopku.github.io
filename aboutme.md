@@ -4,7 +4,7 @@ title: About Me
 subtitle: Ph.D. Candidate @ Peking University
 ---
 
-- I'm now a Ph.D. student in Department of Machine Intelligence at Peking University, woring with [Prof. Yan Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm).
+- I'm now a Ph.D. student in Department of Machine Intelligence at Peking University, working with [Prof. Yan Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm).
 
 - My research interests lie in the general area of machine learning and data mining, particularly in graph data mining.
 
