@@ -11,6 +11,11 @@ This is a collection of some research projects I've worked on.
 ---
 ## Conference Papers
 
+
+<img src="../img/conference-paper.png" height="20px">
+*SDM'22* ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network \\
+**Hao Sun**, Yuntao Li, Yan Zhang
+
 <img src="../img/conference-paper.png" height="20px">
 *CIKM'21* PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network. [[pdf]](resources/cikm_2021_sun.pdf) \\
 **Hao Sun**, Changjie Yang, Liwei Deng, Fan Zhou, Feiteng Huang, Kai Zheng
