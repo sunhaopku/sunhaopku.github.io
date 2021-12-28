@@ -13,7 +13,7 @@ This is a collection of some research projects I've worked on.
 
 
 <img src="../img/conference-paper.png" height="20px">
-*SDM'22* ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network \\
+*SDM'22* ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network. [[pdf]](resources/sdm_2022_sun.pdf) \\
 **Hao Sun**, Yuntao Li, Yan Zhang
 
 <img src="../img/conference-paper.png" height="20px">
