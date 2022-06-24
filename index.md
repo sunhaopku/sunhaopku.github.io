@@ -15,7 +15,7 @@ bigimg:
 <i class="about-text">
 <span class="fa fa-paper-plane about-icon"></span>
 </i>
-Our paper entitled "A Neural Corpus Indexer for Document Retrieval" is available on *Arxiv*!
+Our paper entitled "A Neural Corpus Indexer for Document Retrieval" is available on [Arxiv](https://arxiv.org/abs/2206.02743)!
 
 
 <i class="about-text">
