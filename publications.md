@@ -11,7 +11,7 @@ This is a collection of some research projects I've worked on.
 ---
 ## Conference Papers
 <img src="../img/conference-paper.png" height="20px">
-*Arxiv* A Neural Corpus Indexer for Document Retrieval [pdf](resources/wang_arxiv.pdf) \\
+*Arxiv* A Neural Corpus Indexer for Document Retrieval [[pdf]](resources/wang_arxiv.pdf) \\
 Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, **Hao Sun**, Qi Chen...
 
 <img src="../img/conference-paper.png" height="20px">
