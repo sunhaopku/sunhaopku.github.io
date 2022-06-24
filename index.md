@@ -15,6 +15,12 @@ bigimg:
 <i class="about-text">
 <span class="fa fa-paper-plane about-icon"></span>
 </i>
+Our paper entitled "A Neural Corpus Indexer for Document Retrieval" is available on *Arxiv*!
+
+
+<i class="about-text">
+<span class="fa fa-paper-plane about-icon"></span>
+</i>
 My paper entitled "ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network" was accepted by *SDM 2022*!
 
 
