@@ -11,8 +11,8 @@ This is a collection of some research projects I've worked on.
 ---
 ## Conference Papers
 <img src="../img/conference-paper.png" height="20px">
-*Arxiv* A Neural Corpus Indexer for Document Retrieval [[pdf]](resources/wang_arxiv.pdf) \\
-Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, **Hao Sun**, Qi Chen, Yuqing Xia, Chengmin Chi, Guoshuai Zhao, Zheng Liu, Xing Xie, Hao Allen Sun, Weiwei Deng, Qi Zhang, Mao Yang
+*Arxiv* A Neural Corpus Indexer for Document Retrieval [pdf](resources/wang_arxiv.pdf) \\
+Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, **Hao Sun**, Qi Chen...
 
 <img src="../img/conference-paper.png" height="20px">
 *SDM'22* ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network. [[pdf]](resources/sdm_2022_sun.pdf) \\
