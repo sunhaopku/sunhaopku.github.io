@@ -33,6 +33,11 @@ In the summer of 2021, I was a research intern at Technonology Innovation Lab of
 
 - **Jun 2021** Outstanding Graduation Thesis for Undergraduates (Top 12 for all graduates in the computer science department)
 
+### Sevices
+Program Committee Member
+EMNLP 2022
+
+
 ### Other Information
 
 * [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=at9AB50AAAAJ)
