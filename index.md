@@ -6,7 +6,6 @@ use-site-title: true
 bigimg:
   - "/img/west_1.jpg" : "Western Hills, Beijing, China (2022)"
   - "/img/west_2.jpg" : "Western Hills, Beijing, China (2022)"
-  - "/img/west_3.jpg" : "Western Hills, Beijing, China (2022)"
   - "/img/ali_1.jpg" : "Ali Mountain, Taiwan, China (2019)"
   - "/img/bipenggou_2.jpg" : "Bipenggou, Sichuan, China (2021)"
   - "/img/bipenggou_3.jpg" : "Bipenggou, Sichuan, China (2021)"
