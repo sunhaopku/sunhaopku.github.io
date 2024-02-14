@@ -19,7 +19,7 @@ redirect_from:
 
 I'm now a Ph.D. candidate in [School of Intelligence Science and Technology ](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Yan Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my Bachlor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [Kai Zheng](http://zheng-kai.com/). I’ve also spent time at [Baidu](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [Alibaba](https://www.alibaba.com/) and [Huawei](https://www.huawei.com/).
 
-My current research interests include **Information Retrieval** and **Large Language Model**. If you are also interested, please feel free to drop me an email.
+My current research interests include **Information Retrieval** and **Large Language Model** <a href='https://scholar.google.com/citations?user=at9AB50AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are also interested, please feel free to drop me an email.
 
 
 # 🔥 News
