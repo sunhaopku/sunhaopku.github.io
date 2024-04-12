@@ -57,19 +57,19 @@ My current research interests include **Information Retrieval** and **Large Lang
 
   **ACL 2023**
 
-- [ConLearn: contextual-knowledge-aware concept prerequisite relation learning with graph neural network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14)
+- [ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14)
 
   **Hao Sun**, Yuntao Li, Yan Zhang
 
   **SDM 2022**
 
-- [Periodicmove: shift-aware human mobility recovery with graph neural network](https://dl.acm.org/doi/pdf/10.1145/3459637.3482284)
+- [PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network](https://dl.acm.org/doi/pdf/10.1145/3459637.3482284)
 
   **Hao Sun**, Changjie Yang, Liwei Deng, Fan Zhou, Feiteng Huang, Kai Zheng
 
   **CIKM 2021**
 
-- [Personalized dynamic knowledge-aware recommendation with hybrid explanations](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10)
+- [Personalized Dynamic Knowledge-Aware Recommendation with Hybrid Explanations](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10)
 
   **Hao Sun**, Zijian Wu, Yue Cui, Liwei Deng, Yan Zhao, Kai Zheng
 
@@ -81,7 +81,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
   **WSDM 2023**
 
-- [A neural corpus indexer for document retrieval](https://arxiv.org/pdf/2206.02743.pdf)
+- [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743.pdf)
 
   Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, **Hao Sun**, Qi Chen, Yuqing Xia, .... 
 
@@ -105,7 +105,13 @@ My current research interests include **Information Retrieval** and **Large Lang
 
   **CIKM 2022**
 
-- [Sequential-knowledge-aware next POI recommendation: A meta-learning approach](https://dl.acm.org/doi/pdf/10.1145/3460198)
+- [Boosting Disfluency Detection with Large Language Model as Disfluency Generator](https://arxiv.org/pdf/2403.08229.pdf)
+
+ Zhenrong Cheng, Jiayan Guo, **Hao Sun**, Yan Zhang
+
+  **ICME 2024**
+
+- [Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3460198)
 
   Yue Cui, **Hao Sun**, Yan Zhao, Hongzhi Yin, Kai Zheng
 
