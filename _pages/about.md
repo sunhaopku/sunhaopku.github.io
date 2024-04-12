@@ -139,7 +139,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 # 💻 Internships
 
-- *2023.07 - Present*, Research Intern, [Baidu Research](http://research.baidu.com/), focusing on large language models.
-- *2022.03 - 2023.06*, Research Intern, [Microsoft Research Asia (MSRA)](https://www.msra.cn/), focusing on dense retrieval.
-- *2021.11 - 2022.03*, Research Intern, [DAMO Academy](https://damo.alibaba.com/), focusing on multi-turn conversation.
-- *2020.11 - 2021.06*, Research Intern, [HUAWEI Research](https://www.huawei.com/en/), focusing on spatial-temporal data analysis.
+- [Baidu Research](http://research.baidu.com/), focusing on large language models.
+- [Microsoft Research Asia (MSRA)](https://www.msra.cn/), focusing on dense retrieval.
+- [DAMO Academy](https://damo.alibaba.com/), focusing on multi-turn conversation.
+- [HUAWEI Research](https://www.huawei.com/en/), focusing on spatial-temporal data analysis.
