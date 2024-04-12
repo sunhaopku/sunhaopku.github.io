@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -107,7 +108,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 - [Boosting Disfluency Detection with Large Language Model as Disfluency Generator](https://arxiv.org/pdf/2403.08229.pdf)
 
- Zhenrong Cheng, Jiayan Guo, **Hao Sun**, Yan Zhang
+   Zhenrong Cheng, Jiayan Guo, **Hao Sun**, Yan Zhang
 
   **ICME 2024**
 
