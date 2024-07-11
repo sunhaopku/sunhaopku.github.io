@@ -54,7 +54,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
   **WSDM 2024  (Oral)**
 
-- [Allies: Prompting Large Language Model with Beam Search](https://aclanthology.org/2023.findings-emnlp.247.pdf) [Code](https://github.com/microsoft/SimXNS/tree/main/ALLIES) ([Code](https://github.com/microsoft/SimXNS/tree/main/LEAD))
+- [Allies: Prompting Large Language Model with Beam Search](https://aclanthology.org/2023.findings-emnlp.247.pdf) ([Code](https://github.com/microsoft/SimXNS/tree/main/LEAD))
 
   **Hao Sun**, Xiao Liu, Yeyun Gong, Yan Zhang, Nan Duan
 
