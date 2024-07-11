@@ -60,7 +60,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
   **EMNLP 2023 (Findings)**
 
-- [History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling](https://arxiv.org/pdf/2306.06872.pdf)
+- [History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling](https://arxiv.org/pdf/2306.06872.pdf) [[Code](https://github.com/microsoft/SimXNS/tree/main/LEAD)]
 
   **Hao Sun**, Yang Li, Liwei Deng, Bowen Li, Binyuan Hui, Binhua Li, Yunshi Lan, Yan Zhang, Yongbin Li
 
