@@ -46,7 +46,9 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 # 📝 Publications
 
-- [LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf) [Code](https://github.com/microsoft/SimXNS/tree/main/LEAD)
+- [LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf)
+
+  [Code](https://github.com/microsoft/SimXNS/tree/main/LEAD) [PDF](https://github.com/microsoft/SimXNS/tree/main/LEAD) 
 
   **Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Jingwen Lu, Yan Zhang, Linjun Yang, Rangan Majumder, Nan Duan
 
