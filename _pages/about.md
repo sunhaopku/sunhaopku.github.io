@@ -37,16 +37,22 @@ My current research interests include **Information Retrieval** and **Large Lang
   **Hao Sun**, Hengyi Cai, Bo Wang, Yingyan Hou, Xiaochi Wei, Shuaiqiang Wang, Yan Zhang, Dawei Yin
 
   **Arxiv**
+  
+- [Retrieved In-Context Principles from Previous Mistakes](https://arxiv.org/pdf/2407.05682)
+
+  **Hao Sun**, Yong Jiang, Bo Wang, Yingyan Hou, Yan Zhang, Pengjun Xie, Fei Huang
+
+  **Arxiv**
 
 # 📝 Publications
 
-- [LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf)
+- [LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf) [Code](https://github.com/microsoft/SimXNS/tree/main/LEAD)
 
   **Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Jingwen Lu, Yan Zhang, Linjun Yang, Rangan Majumder, Nan Duan
 
   **WSDM 2024  (Oral)**
 
-- [Allies: Prompting Large Language Model with Beam Search](https://aclanthology.org/2023.findings-emnlp.247.pdf)
+- [Allies: Prompting Large Language Model with Beam Search](https://aclanthology.org/2023.findings-emnlp.247.pdf) [Code](https://github.com/microsoft/SimXNS/tree/main/ALLIES)
 
   **Hao Sun**, Xiao Liu, Yeyun Gong, Yan Zhang, Nan Duan
 
@@ -58,13 +64,13 @@ My current research interests include **Information Retrieval** and **Large Lang
 
   **ACL 2023**
 
-- [ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14)
+- [ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14) [Code](https://github.com/sunhaonlp/ConLearn)
 
   **Hao Sun**, Yuntao Li, Yan Zhang
 
   **SDM 2022**
 
-- [PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network](https://dl.acm.org/doi/pdf/10.1145/3459637.3482284)
+- [PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network](https://dl.acm.org/doi/pdf/10.1145/3459637.3482284) [Code](https://github.com/sunhaonlp/PeriodicMove)
 
   **Hao Sun**, Changjie Yang, Liwei Deng, Fan Zhou, Feiteng Huang, Kai Zheng
 
@@ -82,7 +88,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
   **WSDM 2023**
 
-- [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743.pdf)
+- [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743.pdf) [Code](https://github.com/solidsea98/Neural-Corpus-Indexer-NCI)
 
   Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, **Hao Sun**, Qi Chen, Yuqing Xia, .... 
 
@@ -120,6 +126,8 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 # 🎖 Honors and Awards
 
+- *2024.06*   First Prize of Challenge Cup Competition, Peking University.
+- *2024.03*   Academic Star Nomination.
 - *2023.09*   Merit Student of Peking University.
 - *2023.09*   Schlumberger Scholarship.
 - *2023.08*   Stars of Tomorrow Award at Microsoft, Microsoft.
