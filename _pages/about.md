@@ -24,7 +24,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 
 # 🔥 News
-
+- *2024.04*: &nbsp;🎉🎉  Nominated for the Academic Star Award!
 - *2023.12*: &nbsp;🎉🎉  My paper entitled “Towards Verifiable Text Generation with Evolving Memory and Self-Reflection” is available on [Arxiv](http://arxiv.org/abs/2312.09075)!
 - *2023.10*: &nbsp;🎉🎉  My paper entitled “LEAD: Liberal Feature-based Distillation for Dense Retrieval” was accepted by [WSDM 2024](https://www.wsdm-conference.org/2024/)! 
 - *2023.10*: &nbsp;🎉🎉  My paper entitled “Allies: Prompting Large Language Model with Beam Search” was accepted by [EMNLP 2023](https://2023.emnlp.org/)!
@@ -46,33 +46,31 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 # 📝 Publications
 
-- [LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf)
-
-  [Code](https://github.com/microsoft/SimXNS/tree/main/LEAD) [PDF](https://github.com/microsoft/SimXNS/tree/main/LEAD) 
+- [LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf) [[Code](https://github.com/microsoft/SimXNS/tree/main/LEAD)]
 
   **Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Jingwen Lu, Yan Zhang, Linjun Yang, Rangan Majumder, Nan Duan
 
   **WSDM 2024  (Oral)**
 
-- [Allies: Prompting Large Language Model with Beam Search](https://aclanthology.org/2023.findings-emnlp.247.pdf) ([Code](https://github.com/microsoft/SimXNS/tree/main/LEAD))
+- [Allies: Prompting Large Language Model with Beam Search](https://aclanthology.org/2023.findings-emnlp.247.pdf) [[Code](https://github.com/microsoft/SimXNS/tree/main/LEAD)]
 
   **Hao Sun**, Xiao Liu, Yeyun Gong, Yan Zhang, Nan Duan
 
   **EMNLP 2023 (Findings)**
 
-- [History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling](https://arxiv.org/pdf/2306.06872.pdf) [[Code](https://github.com/microsoft/SimXNS/tree/main/LEAD)]
+- [History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling](https://arxiv.org/pdf/2306.06872.pdf)
 
   **Hao Sun**, Yang Li, Liwei Deng, Bowen Li, Binyuan Hui, Binhua Li, Yunshi Lan, Yan Zhang, Yongbin Li
 
   **ACL 2023**
 
-- [ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14) [Code](https://github.com/sunhaonlp/ConLearn)
+- [ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14) [[Code](https://github.com/sunhaonlp/ConLearn)]
 
   **Hao Sun**, Yuntao Li, Yan Zhang
 
   **SDM 2022**
 
-- [PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network](https://dl.acm.org/doi/pdf/10.1145/3459637.3482284) [Code](https://github.com/sunhaonlp/PeriodicMove)
+- [PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network](https://dl.acm.org/doi/pdf/10.1145/3459637.3482284) [[Code](https://github.com/sunhaonlp/PeriodicMove)]
 
   **Hao Sun**, Changjie Yang, Liwei Deng, Fan Zhou, Feiteng Huang, Kai Zheng
 
@@ -90,7 +88,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
   **WSDM 2023**
 
-- [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743.pdf) [Code](https://github.com/solidsea98/Neural-Corpus-Indexer-NCI)
+- [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743.pdf) [[Code](https://github.com/solidsea98/Neural-Corpus-Indexer-NCI)]
 
   Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, **Hao Sun**, Qi Chen, Yuqing Xia, .... 
 
