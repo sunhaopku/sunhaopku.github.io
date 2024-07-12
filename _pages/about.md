@@ -44,6 +44,12 @@ My current research interests include **Information Retrieval** and **Large Lang
 
   **Arxiv**
 
+- [AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning](https://arxiv.org)
+
+  **Hao Sun**, Jiayi Wu, Hengyi Cai, Xiaochi Wei, Yue Feng, Bo Wang, Shuaiqiang Wang, Yan Zhang, Dawei Yin
+
+  **Arxiv**
+
 # 📝 Publications
 
 - [LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf) [[Code](https://github.com/microsoft/SimXNS/tree/main/LEAD)]
