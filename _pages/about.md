@@ -50,6 +50,12 @@ My current research interests include **Information Retrieval** and **Large Lang
 
   **Arxiv**
 
+- [SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
+
+  **Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Ge Shi, Yan Zhang, Linjun Yang, Nan Duan
+
+  **Arxiv**
+  
 # 📝 Publications
 
 - [LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf) [[Code](https://github.com/microsoft/SimXNS/tree/main/LEAD)]
