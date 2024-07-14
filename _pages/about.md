@@ -57,13 +57,20 @@ My current research interests include **Information Retrieval** and **Large Lang
   **Arxiv**
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2024</div><img src='../images/LEAD.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf) \\
-**Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Jingwen Lu, Yan Zhang, Linjun Yang, Rangan Majumder, Nan Duan \\
-**WSDM 2024  (Oral)** \\
- <a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a> | <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">WSDM 2024</div>
+      <img src='../images/LEAD.jpg' alt="LEAD Image" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf) \\
+    **Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Jingwen Lu, Yan Zhang, Linjun Yang, Rangan Majumder, Nan Duan \\
+    **WSDM 2024  (Oral)** \\
+    <a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a> | <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
+  </div>
+</div> <!-- Closing tag for paper-box -->
 
 
 
