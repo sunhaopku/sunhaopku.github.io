@@ -40,7 +40,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Arxiv** 
 
- <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
+<a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
 
 </div>
 </div>
@@ -58,9 +58,7 @@ My current research interests include **Information Retrieval** and **Large Lang
  <a href="https://arxiv.org/pdf/2407.05682"><strong>Paper</strong></a>
 
 </div>
-
-
-
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/adaswitch.jpg' alt="sym" width="100%"></div></div>
@@ -71,12 +69,10 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Arxiv** 
 
- <a href="https://arxiv.org"><strong>Paper</strong></a>
+<a href="https://arxiv.org"><strong>Paper</strong></a>
 
 </div>
 </div>
-
-
 
 
 
@@ -88,8 +84,9 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Arxiv** 
 
- <a href="https://arxiv.org"><strong>Paper</strong></a>
-
+<a href="https://arxiv.org"><strong>Paper</strong></a>
+</div>
+</div>
 
 # 📝 Publications
 
@@ -144,7 +141,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **SDM 2022**
 
- <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/ConLearn"><strong>Code</strong></a>
+<a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/ConLearn"><strong>Code</strong></a>
 </div>
 </div>
 
@@ -287,8 +284,9 @@ Yue Cui, **Hao Sun**, Yan Zhao, Hongzhi Yin, Kai Zheng
 
 **TOIS 2021**
 
- <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
-
+<a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
