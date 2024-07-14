@@ -34,10 +34,12 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/vtg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) 
 
-[Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) \\
-**Hao Sun**, Hengyi Cai, Bo Wang, Yingyan Hou, Xiaochi Wei, Shuaiqiang Wang, Yan Zhang, Dawei Yin \\
-**Arxiv** \\
+**Hao Sun**, Hengyi Cai, Bo Wang, Yingyan Hou, Xiaochi Wei, Shuaiqiang Wang, Yan Zhang, Dawei Yin 
+
+**Arxiv** 
+
  <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
 
 </div>
@@ -47,10 +49,12 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/ricp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Retrieved In-Context Principles from Previous Mistakes](https://arxiv.org/pdf/2407.05682) 
 
-[Retrieved In-Context Principles from Previous Mistakes](https://arxiv.org/pdf/2407.05682) \\
-**Hao Sun**, Yong Jiang, Bo Wang, Yingyan Hou, Yan Zhang, Pengjun Xie, Fei Huang \\
-**Arxiv** \\
+**Hao Sun**, Yong Jiang, Bo Wang, Yingyan Hou, Yan Zhang, Pengjun Xie, Fei Huang 
+
+**Arxiv** 
+
  <a href="https://arxiv.org/pdf/2407.05682"><strong>Paper</strong></a>
 
 </div>
@@ -62,10 +66,12 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/adaswitch.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning](https://arxiv.org) 
 
-[AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning](https://arxiv.org)
-**Hao Sun**, Jiayi Wu, Hengyi Cai, Xiaochi Wei, Yue Feng, Bo Wang, Shuaiqiang Wang, Yan Zhang, Dawei Yin
-**Arxiv** \\
+**Hao Sun**, Jiayi Wu, Hengyi Cai, Xiaochi Wei, Yue Feng, Bo Wang, Shuaiqiang Wang, Yan Zhang, Dawei Yin 
+
+**Arxiv** 
+
  <a href="https://arxiv.org"><strong>Paper</strong></a>
 
 </div>
@@ -77,11 +83,11 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/simcns.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
 
 **Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Ge Shi, Yan Zhang, Linjun Yang, Nan Duan
-**Arxiv** \\
+**Arxiv** 
+
  <a href="https://arxiv.org"><strong>Paper</strong></a>
 
 </div>
@@ -91,20 +97,28 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2024</div><img src='../images/LEAD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf) \\
-**Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Jingwen Lu, Yan Zhang, Linjun Yang, Rangan Majumder, Nan Duan \\
-**WSDM 2024  (Oral)** \\
- <a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a> | <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
+
+[LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf) 
+
+**Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Jingwen Lu, Yan Zhang, Linjun Yang, Rangan Majumder, Nan Duan 
+
+**WSDM 2024  (Oral)** 
+
+<a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a> | <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
 
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='../images/allies.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Allies: Prompting Large Language Model with Beam Search](https://aclanthology.org/2023.findings-emnlp.247.pdf)  
 
-[Allies: Prompting Large Language Model with Beam Search](https://aclanthology.org/2023.findings-emnlp.247.pdf)  \\
 **Hao Sun**, Xiao Liu, Yeyun Gong, Yan Zhang, Nan Duan
-**EMNLP 2023  (Findings)** \\
+
+**EMNLP 2023  (Findings)** 
+
  <a href="https://aclanthology.org/2023.findings-emnlp.247.pdf"><strong>Paper</strong></a> | <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
 
 </div>
@@ -114,10 +128,12 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='../images/hsge.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling](https://arxiv.org/pdf/2306.06872.pdf)  
 
-[History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling](https://arxiv.org/pdf/2306.06872.pdf)  \\
 **Hao Sun**, Yang Li, Liwei Deng, Bowen Li, Binyuan Hui, Binhua Li, Yunshi Lan, Yan Zhang, Yongbin Li
-**ACL 2023  ** \\
+
+**ACL 2023  ** 
+
  <a href="https://arxiv.org/pdf/2306.06872.pdf"><strong>Paper</strong></a>
  </div>
 </div>
@@ -126,10 +142,12 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SDM 2022</div><img src='../images/conlearn.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14)  
 
-[ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14)  \\
 **Hao Sun**, Yuntao Li, Yan Zhang
+
 **SDM 2022  **
+
  <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/ConLearn"><strong>Code</strong></a>
 </div>
 </div>
@@ -139,10 +157,12 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2021</div><img src='../images/periodicmove.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network](https://dl.acm.org/doi/pdf/10.1145/3459637.3482284) 
 
-[PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network](https://dl.acm.org/doi/pdf/10.1145/3459637.3482284)  \\
 **Hao Sun**, Changjie Yang, Liwei Deng, Fan Zhou, Feiteng Huang, Kai Zheng
+
 **CIKM 2022  **
+
  <a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3482284"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
 </div>
 </div>
@@ -152,10 +172,12 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2021</div><img src='../images/pdkr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Personalized Dynamic Knowledge-Aware Recommendation with Hybrid Explanations](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10)  
 
-[Personalized Dynamic Knowledge-Aware Recommendation with Hybrid Explanations](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10)  \\
 **Hao Sun**, Zijian Wu, Yue Cui, Liwei Deng, Yan Zhao, Kai Zheng
+
 **DASFAA 2021  **
+
  <a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
 </div>
 </div>
@@ -167,10 +189,12 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2023</div><img src='../images/s2tul.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[S2TUL: A Semi-Supervised Framework for Trajectory-User Linking](https://dl.acm.org/doi/pdf/10.1145/3539597.3570410)  
 
-[S2TUL: A Semi-Supervised Framework for Trajectory-User Linking](https://dl.acm.org/doi/pdf/10.1145/3539597.3570410)  \\
 Liwei Deng, **Hao Sun**, Yan Zhao, Shuncheng Liu, Kai Zheng 
+
 **WSDM 2023  **
+
  <a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
 </div>
 </div>
@@ -182,9 +206,10 @@ Liwei Deng, **Hao Sun**, Yan Zhao, Shuncheng Liu, Kai Zheng
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='../images/nci.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743.pdf) 
 
-[A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743.pdf) \\
 Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, **Hao Sun**, Qi Chen, Yuqing Xia, .... 
+
 **NeurIPS 2022**
 
  <a href="https://arxiv.org/pdf/2206.02743.pdf"><strong>Paper</strong></a> | <a href="https://github.com/solidsea98/Neural-Corpus-Indexer-NCI"><strong>Code</strong></a>
@@ -196,9 +221,10 @@ Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, **Hao Sun**, Qi C
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='../images/CL-TSim.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Efficient Trajectory Similarity Computation with Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3511808.3557308) 
 
-[Efficient Trajectory Similarity Computation with Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3511808.3557308) \\
 Liwei Deng, Yan Zhao, Zidan Fu, **Hao Sun**, Shuncheng Liu, Kai Zheng 
+
 **CIKM 2022**
 
  <a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557308"><strong>Paper</strong></a> 
@@ -210,9 +236,10 @@ Liwei Deng, Yan Zhao, Zidan Fu, **Hao Sun**, Shuncheng Liu, Kai Zheng
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='../images/3SGNN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Efficient and Effective Similar Subtrajectory Search: A Spatial-aware Comprehension Approach](https://dl.acm.org/doi/pdf/10.1145/3456723) 
 
-[Efficient and Effective Similar Subtrajectory Search: A Spatial-aware Comprehension Approach](https://dl.acm.org/doi/pdf/10.1145/3456723) \\
 Liwei Deng, **Hao Sun**, Rui Sun, Yan Zhao, Han Su
+
 **TIST 2022**
 
  <a href="https://dl.acm.org/doi/pdf/10.1145/3456723"><strong>Paper</strong></a> 
@@ -223,12 +250,13 @@ Liwei Deng, **Hao Sun**, Rui Sun, Yan Zhao, Han Su
 
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='../images/3SGNN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='../images/trill.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fusing Local and Global Mobility Patterns for Trajectory Recovery](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_29) \\
-Liwei Deng, Yan Zhao, **Hao Sun**, Changjie Yang, Jiandong Xie, Kai Zheng 
+[Fusing Local and Global Mobility Patterns for Trajectory Recovery](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_29) 
+
+Liwei Deng, Yan Zhao, **Hao Sun**, Changjie Yang, Jiandong Xie, Kai Zheng
+
 **CIKM 2022**
 
  <a href="https://link.springer.com/chapter/10.1007/978-3-031-30637-2_29"><strong>Paper</strong></a> 
@@ -240,9 +268,10 @@ Liwei Deng, Yan Zhao, **Hao Sun**, Changjie Yang, Jiandong Xie, Kai Zheng
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='../images/DisAug.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Boosting Disfluency Detection with Large Language Model as Disfluency Generator](https://arxiv.org/pdf/2403.08229.pdf)
 
-[Boosting Disfluency Detection with Large Language Model as Disfluency Generator](https://arxiv.org/pdf/2403.08229.pdf)\\
 Zhenrong Cheng, Jiayan Guo, **Hao Sun**, Yan Zhang
+
 **ICME 2024**
 
  <a href="https://arxiv.org/pdf/2403.08229.pdf"><strong>Paper</strong></a> 
@@ -256,9 +285,10 @@ Zhenrong Cheng, Jiayan Guo, **Hao Sun**, Yan Zhang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='../images/skr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3460198) 
 
-[Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3460198) \\
 Yue Cui, **Hao Sun**, Yan Zhao, Hongzhi Yin, Kai Zheng
+
 **TOIS 2021**
 
  <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
