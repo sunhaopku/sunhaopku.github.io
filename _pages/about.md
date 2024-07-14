@@ -32,34 +32,65 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 # 📒 Preprint
 
-- [Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/vtg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  **Hao Sun**, Hengyi Cai, Bo Wang, Yingyan Hou, Xiaochi Wei, Shuaiqiang Wang, Yan Zhang, Dawei Yin
+[Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) \\
+**Hao Sun**, Hengyi Cai, Bo Wang, Yingyan Hou, Xiaochi Wei, Shuaiqiang Wang, Yan Zhang, Dawei Yin \\
+**Arxiv** \\
+ <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
 
-  **Arxiv**
-  
-- [Retrieved In-Context Principles from Previous Mistakes](https://arxiv.org/pdf/2407.05682)
+</div>
+</div>
 
-  **Hao Sun**, Yong Jiang, Bo Wang, Yingyan Hou, Yan Zhang, Pengjun Xie, Fei Huang
 
-  **Arxiv**
 
-- [AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning](https://arxiv.org)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/ricp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  **Hao Sun**, Jiayi Wu, Hengyi Cai, Xiaochi Wei, Yue Feng, Bo Wang, Shuaiqiang Wang, Yan Zhang, Dawei Yin
+[Retrieved In-Context Principles from Previous Mistakes](https://arxiv.org/pdf/2407.05682) \\
+**Hao Sun**, Yong Jiang, Bo Wang, Yingyan Hou, Yan Zhang, Pengjun Xie, Fei Huang \\
+**Arxiv** \\
+ <a href="https://arxiv.org/pdf/2407.05682"><strong>Paper</strong></a>
 
-  **Arxiv**
+</div>
+</div>
 
-- [SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
 
-  **Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Ge Shi, Yan Zhang, Linjun Yang, Nan Duan
 
-  **Arxiv**
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/adaswitch.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning](https://arxiv.org)
+**Hao Sun**, Jiayi Wu, Hengyi Cai, Xiaochi Wei, Yue Feng, Bo Wang, Shuaiqiang Wang, Yan Zhang, Dawei Yin
+**Arxiv** \\
+ <a href="https://arxiv.org"><strong>Paper</strong></a>
+
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/simcns.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
+
+**Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Ge Shi, Yan Zhang, Linjun Yang, Nan Duan
+**Arxiv** \\
+ <a href="https://arxiv.org"><strong>Paper</strong></a>
+
+</div>
+</div>
+
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2024</div><img src='../images/LEAD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf) \\
 **Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Jingwen Lu, Yan Zhang, Linjun Yang, Rangan Majumder, Nan Duan \\
 **WSDM 2024  (Oral)** \\
@@ -151,7 +182,7 @@ Liwei Deng, **Hao Sun**, Yan Zhao, Shuncheng Liu, Kai Zheng
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='../images/nci.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
 [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743.pdf) \\
 Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, **Hao Sun**, Qi Chen, Yuqing Xia, .... 
 **NeurIPS 2022**
