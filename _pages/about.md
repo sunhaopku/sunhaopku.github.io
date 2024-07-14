@@ -58,7 +58,6 @@ My current research interests include **Information Retrieval** and **Large Lang
  <a href="https://arxiv.org/pdf/2407.05682"><strong>Paper</strong></a>
 
 </div>
-</div>
 
 
 
@@ -86,6 +85,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 [SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
 
 **Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Ge Shi, Yan Zhang, Linjun Yang, Nan Duan
+
 **Arxiv** 
 
  <a href="https://arxiv.org"><strong>Paper</strong></a>
@@ -102,12 +102,11 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Jingwen Lu, Yan Zhang, Linjun Yang, Rangan Majumder, Nan Duan 
 
-**WSDM 2024  (Oral)** 
-
-<a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a> | <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
-
+**WSDM 2024  (Oral)**
+ <a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a> | <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
 </div>
 </div>
+
 
 
 
@@ -120,7 +119,6 @@ My current research interests include **Information Retrieval** and **Large Lang
 **EMNLP 2023  (Findings)** 
 
  <a href="https://aclanthology.org/2023.findings-emnlp.247.pdf"><strong>Paper</strong></a> | <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
-
 </div>
 </div>
 
@@ -132,10 +130,10 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, Yang Li, Liwei Deng, Bowen Li, Binyuan Hui, Binhua Li, Yunshi Lan, Yan Zhang, Yongbin Li
 
-**ACL 2023  ** 
+**ACL 2023** 
 
  <a href="https://arxiv.org/pdf/2306.06872.pdf"><strong>Paper</strong></a>
- </div>
+</div>
 </div>
 
 
@@ -146,7 +144,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, Yuntao Li, Yan Zhang
 
-**SDM 2022  **
+**SDM 2022**
 
  <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/ConLearn"><strong>Code</strong></a>
 </div>
@@ -161,7 +159,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, Changjie Yang, Liwei Deng, Fan Zhou, Feiteng Huang, Kai Zheng
 
-**CIKM 2022  **
+**CIKM 2022**
 
  <a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3482284"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
 </div>
@@ -176,7 +174,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, Zijian Wu, Yue Cui, Liwei Deng, Yan Zhao, Kai Zheng
 
-**DASFAA 2021  **
+**DASFAA 2021**
 
  <a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
 </div>
@@ -193,7 +191,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 Liwei Deng, **Hao Sun**, Yan Zhao, Shuncheng Liu, Kai Zheng 
 
-**WSDM 2023  **
+**WSDM 2023**
 
  <a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
 </div>
