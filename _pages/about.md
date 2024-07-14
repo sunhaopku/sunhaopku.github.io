@@ -90,8 +90,6 @@ My current research interests include **Information Retrieval** and **Large Lang
 
  <a href="https://arxiv.org"><strong>Paper</strong></a>
 
-</div>
-</div>
 
 # 📝 Publications
 
@@ -232,7 +230,7 @@ Liwei Deng, Yan Zhao, Zidan Fu, **Hao Sun**, Shuncheng Liu, Kai Zheng
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='../images/3SGNN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIST 2022</div><img src='../images/3SGNN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Efficient and Effective Similar Subtrajectory Search: A Spatial-aware Comprehension Approach](https://dl.acm.org/doi/pdf/10.1145/3456723) 
 
@@ -264,7 +262,7 @@ Liwei Deng, Yan Zhao, **Hao Sun**, Changjie Yang, Jiandong Xie, Kai Zheng
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='../images/DisAug.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='../images/DisAug.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Boosting Disfluency Detection with Large Language Model as Disfluency Generator](https://arxiv.org/pdf/2403.08229.pdf)
 
@@ -281,7 +279,7 @@ Zhenrong Cheng, Jiayan Guo, **Hao Sun**, Yan Zhang
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='../images/skr.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2021</div><img src='../images/skr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3460198) 
 
@@ -290,9 +288,6 @@ Yue Cui, **Hao Sun**, Yan Zhao, Hongzhi Yin, Kai Zheng
 **TOIS 2021**
 
  <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
-
-</div>
-</div>
 
 
 
