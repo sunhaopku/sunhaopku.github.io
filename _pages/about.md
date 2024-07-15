@@ -100,7 +100,6 @@ My current research interests include **Information Retrieval** and **Large Lang
 **Select the most important negative samples for multi-source dense retrieval**
 
 </div>
-</div>
 
 
 # 📝 Publications
@@ -353,7 +352,6 @@ Yue Cui, **Hao Sun**, Yan Zhao, Hongzhi Yin, Kai Zheng
 
 **Propose a meta-learned sequential-knowledge-aware recommender (Meta-SKR), which utilizes sequential, spatiotemporal, and social knowledge to recommend the next POI for a location-based social network user.**
 
-</div>
 </div>
 
 
