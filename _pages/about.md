@@ -36,7 +36,6 @@ My current research interests include **Information Retrieval** and **Large Lang
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Arxiv</div><img src='../images/vtg.jpg' alt="sym" style="width: 100%; height: 200px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) 
- 
 **Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
 
 **Arxiv** 
