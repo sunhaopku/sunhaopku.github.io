@@ -344,7 +344,7 @@ _The IEEE International Conference on Multimedia & Expo_ (**ICME**), 2024
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">CIKM 2022</div><img src='../images/skr.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">TOIS 2021</div><img src='../images/skr.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3460198) 
 
@@ -354,7 +354,7 @@ _The ACM Transactions on Information Systems_ (**TOIS**), 2021
 
  <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
 
-**Propose a meta-learned sequential-knowledge-aware recommender (Meta-SKR), which utilizes sequential, spatiotemporal, and social knowledge to recommend the next POI for a location-based social network user.**
+**Utilize sequential, spatiotemporal, and social knowledge to recommend the next POI for a location-based social network user.**
 
 </div>
 </div>
