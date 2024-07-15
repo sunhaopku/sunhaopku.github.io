@@ -40,7 +40,9 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Arxiv** 
 
-<a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
+ <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
+
+**Improving citation generation with two-tier verifier and active retrieval mechanism.**
 
 </div>
 </div>
@@ -55,10 +57,14 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Arxiv** 
 
+**Enabling LLMs to learn from mistakes by proving question-level and task-level principles .**
+
  <a href="https://arxiv.org/pdf/2407.05682"><strong>Paper</strong></a>
 
 </div>
-</div>
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/adaswitch.jpg' alt="sym" width="100%"></div></div>
@@ -69,10 +75,14 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Arxiv** 
 
-<a href="https://arxiv.org"><strong>Paper</strong></a>
+ <a href="https://arxiv.org"><strong>Paper</strong></a>
+
+**Enabling adaptive switching between local agent and cloud agent through collaborative learning.**
 
 </div>
 </div>
+
+
 
 
 
@@ -84,11 +94,17 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Arxiv** 
 
-<a href="https://arxiv.org"><strong>Paper</strong></a>
+ <a href="https://arxiv.org"><strong>Paper</strong></a>
+
+**Select the most important negative samples for multi-source dense retrieval**
+
 </div>
 </div>
 
+
 # 📝 Publications
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2024</div><img src='../images/LEAD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -98,7 +114,10 @@ My current research interests include **Information Retrieval** and **Large Lang
 **Hao Sun**, Xiao Liu, Yeyun Gong, Anlei Dong, Jingwen Lu, Yan Zhang, Linjun Yang, Rangan Majumder, Nan Duan 
 
 **WSDM 2024  (Oral)**
- <a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a> | <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
+
+<a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a> | <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
+
+**Distill the intermediate features from teacher to student without the constarint on model architecture.**
 </div>
 </div>
 
@@ -114,6 +133,9 @@ My current research interests include **Information Retrieval** and **Large Lang
 **EMNLP 2023  (Findings)** 
 
  <a href="https://aclanthology.org/2023.findings-emnlp.247.pdf"><strong>Paper</strong></a> | <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
+
+**Improving the knowledge scope and robustness of LLMs with Beam Search.**
+
 </div>
 </div>
 
@@ -127,7 +149,10 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **ACL 2023** 
 
- <a href="https://arxiv.org/pdf/2306.06872.pdf"><strong>Paper</strong></a>
+<a href="https://arxiv.org/pdf/2306.06872.pdf"><strong>Paper</strong></a>
+
+**Modeling history conversation information with History Semantic Graph.**
+
 </div>
 </div>
 
@@ -142,6 +167,9 @@ My current research interests include **Information Retrieval** and **Large Lang
 **SDM 2022**
 
 <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/ConLearn"><strong>Code</strong></a>
+
+**Capturing complex transition patterns between concepts through Graph Neural Network.**
+
 </div>
 </div>
 
@@ -157,6 +185,9 @@ My current research interests include **Information Retrieval** and **Large Lang
 **CIKM 2022**
 
  <a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3482284"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
+
+**Capturing multi-level periodicity and shifting periodicity of human mobility using attention mechanism.**
+
 </div>
 </div>
 
@@ -172,6 +203,9 @@ My current research interests include **Information Retrieval** and **Large Lang
 **DASFAA 2021**
 
  <a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
+
+**Providing personalized and hybrid explanations for the recommendations.**
+
 </div>
 </div>
 
@@ -189,6 +223,8 @@ Liwei Deng, **Hao Sun**, Yan Zhao, Shuncheng Liu, Kai Zheng
 **WSDM 2023**
 
  <a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
+
+**Capture fine-grained intra-trajectory information by passing the trajectories into the sequential neural networks.**
 </div>
 </div>
 
@@ -201,11 +237,14 @@ Liwei Deng, **Hao Sun**, Yan Zhao, Shuncheng Liu, Kai Zheng
 <div class='paper-box-text' markdown="1">
 [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743.pdf) 
 
-Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, **Hao Sun**, Qi Chen, Yuqing Xia, .... 
+Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, **Hao Sun**, Qi Chen, Yuqing Xia, Chengmin Chi, Guoshuai Zhao, Zheng Liu, Xing Xie, Hao Allen Sun, Weiwei Deng, Qi Zhang, Mao Yang
 
 **NeurIPS 2022**
 
  <a href="https://arxiv.org/pdf/2206.02743.pdf"><strong>Paper</strong></a> | <a href="https://github.com/solidsea98/Neural-Corpus-Indexer-NCI"><strong>Code</strong></a>
+
+**Propose an end-to-end differentiable document retrieval model that can significantly outperform both inverted index and dense retrieval solutions.**
+
 </div>
 </div>
 
@@ -220,14 +259,17 @@ Liwei Deng, Yan Zhao, Zidan Fu, **Hao Sun**, Shuncheng Liu, Kai Zheng
 
 **CIKM 2022**
 
- <a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557308"><strong>Paper</strong></a> 
+<a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557308"><strong>Paper</strong></a> 
+
+**Employ a contrastive learning mechanism to learn the latent representations of trajectories and then calculate the dissimilarity between trajectories based on these representations.**
+
 </div>
 </div>
 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIST 2022</div><img src='../images/3SGNN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='../images/3SGNN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Efficient and Effective Similar Subtrajectory Search: A Spatial-aware Comprehension Approach](https://dl.acm.org/doi/pdf/10.1145/3456723) 
 
@@ -235,7 +277,10 @@ Liwei Deng, **Hao Sun**, Rui Sun, Yan Zhao, Han Su
 
 **TIST 2022**
 
- <a href="https://dl.acm.org/doi/pdf/10.1145/3456723"><strong>Paper</strong></a> 
+<a href="https://dl.acm.org/doi/pdf/10.1145/3456723"><strong>Paper</strong></a> 
+
+**Propose a Similar Subtrajectory Search with a Graph Neural Networks framework**
+
 </div>
 </div>
 
@@ -253,13 +298,15 @@ Liwei Deng, Yan Zhao, **Hao Sun**, Changjie Yang, Jiandong Xie, Kai Zheng
 **CIKM 2022**
 
  <a href="https://link.springer.com/chapter/10.1007/978-3-031-30637-2_29"><strong>Paper</strong></a> 
+
+ **Propose a neural attention model based on graph convolutional networks to enhance the accuracy of trajectory recovery**
 </div>
 </div>
 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='../images/DisAug.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='../images/DisAug.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Boosting Disfluency Detection with Large Language Model as Disfluency Generator](https://arxiv.org/pdf/2403.08229.pdf)
 
@@ -268,6 +315,9 @@ Zhenrong Cheng, Jiayan Guo, **Hao Sun**, Yan Zhang
 **ICME 2024**
 
  <a href="https://arxiv.org/pdf/2403.08229.pdf"><strong>Paper</strong></a> 
+
+**Propose a framework that addresses data sparsity issues by generating disfluent data using LLM as augmentation data.**
+
 </div>
 </div>
 
@@ -276,7 +326,7 @@ Zhenrong Cheng, Jiayan Guo, **Hao Sun**, Yan Zhang
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2021</div><img src='../images/skr.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='../images/skr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3460198) 
 
@@ -284,9 +334,13 @@ Yue Cui, **Hao Sun**, Yan Zhao, Hongzhi Yin, Kai Zheng
 
 **TOIS 2021**
 
-<a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
+ <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
+
+**Propose a meta-learned sequential-knowledge-aware recommender (Meta-SKR), which utilizes sequential, spatio-temporal, and social knowledge to recommend the next POI for a location-based social network user.**
+
 </div>
 </div>
+
 
 
 # 🎖 Honors and Awards
