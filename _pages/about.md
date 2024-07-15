@@ -32,6 +32,14 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 # 📒 Preprint
 
+<style>
+.paper-box-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+</style>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/vtg.jpg' alt="sym" style="width: 100%; height: 150px; object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) 
