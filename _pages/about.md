@@ -200,7 +200,7 @@ _The SIAM International Conference on Data Mining_ (**SDM**), 2022
 
 **Hao Sun**, C. Y.g, L. Deng, F. Zhou, F. Huang, K. Zheng
 
-_The ACM International Conference on Information and Knowledge Management_ (**CIKM**), 2022
+_The ACM International Conference on Information and Knowledge Management_ (**CIKM**), 2021
 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3482284"><strong>Paper</strong></a>
 \|
@@ -289,7 +289,7 @@ _The ACM International Conference on Information and Knowledge Management_ (**CI
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">CIKM 2022</div><img src='../images/3SGNN.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">TIST 2022</div><img src='../images/3SGNN.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Efficient and Effective Similar Subtrajectory Search: A Spatial-aware Comprehension Approach](https://dl.acm.org/doi/pdf/10.1145/3456723) 
 
@@ -326,7 +326,7 @@ _The ACM International Conference on Information and Knowledge Management_ (**CI
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">CIKM 2022</div><img src='../images/DisAug.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">ICME 2024</div><img src='../images/DisAug.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Boosting Disfluency Detection with Large Language Model as Disfluency Generator](https://arxiv.org/pdf/2403.08229.pdf)
 
