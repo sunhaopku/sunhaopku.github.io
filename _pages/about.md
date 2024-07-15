@@ -70,7 +70,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Arxiv** 
 
-**Enabling LLMs to learn from mistakes by proving question-level and task-level principles .**
+**Enabling LLMs to learn from mistakes by proving question-level and task-level principles.**
 
  <a href="https://arxiv.org/pdf/2407.05682"><strong>Paper</strong></a>
 
@@ -117,7 +117,6 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 
 # 📝 Publications
-
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">WSDM 2024</div><img src='../images/LEAD.jpg' alt="sym" style="width: 100%; height: 200px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -224,8 +223,6 @@ My current research interests include **Information Retrieval** and **Large Lang
 **DASFAA 2021**
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a>
-\|
-<a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
 
 **Providing personalized and hybrid explanations for the recommendations.**
 
@@ -245,15 +242,11 @@ L. Deng, **Hao Sun**, Y. Zhao, S. Liu, K. Zheng
 
 **WSDM 2023**
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a>
-\|
-<a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3539597.3570410"><strong>Paper</strong></a>
 
 **Capture fine-grained intra-trajectory information by passing the trajectories into the sequential neural networks.**
 </div>
 </div>
-
-
 
 
 
@@ -306,7 +299,7 @@ L. Deng, **Hao Sun**, Rui Sun, Y. Zhao, Han Su
 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3456723"><strong>Paper</strong></a> 
 
-**Propose a Similar Subtrajectory Search with a Graph Neural Networks framework**
+**Propose a Similar Subtrajectory Search with a Graph Neural Networks framework.**
 
 </div>
 </div>
@@ -326,7 +319,7 @@ L. Deng, Y. Zhao, **Hao Sun**, C. Y.g, Jiandong Xie, K. Zheng
 
  <a href="https://link.springer.com/chapter/10.1007/978-3-031-30637-2_29"><strong>Paper</strong></a> 
 
- **Propose a neural attention model based on graph convolutional networks to enhance the accuracy of trajectory recovery**
+ **Propose a neural attention model based on graph convolutional networks to enhance the accuracy of trajectory recovery.**
 </div>
 </div>
 
@@ -351,13 +344,11 @@ Zhenrong Cheng, JiaY. Guo, **Hao Sun**, Y. Zhang
 
 
 
-
-
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">CIKM 2022</div><img src='../images/skr.jpg' alt="sym" style="width: 100%; height: 200px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3460198) 
 
-Y. Cui, **Hao Sun**, Y. Zhao, Hongzhi Yin, K. Zheng
+Y. Cui, **Hao Sun**, Y. Zhao, H. Yin, K. Zheng
 
 **TOIS 2021**
 
@@ -365,6 +356,7 @@ Y. Cui, **Hao Sun**, Y. Zhao, Hongzhi Yin, K. Zheng
 
 **Propose a meta-learned sequential-knowledge-aware recommender (Meta-SKR), which utilizes sequential, spatiotemporal, and social knowledge to recommend the next POI for a location-based social network user.**
 
+</div>
 </div>
 
 
