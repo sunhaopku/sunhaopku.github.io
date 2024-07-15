@@ -275,7 +275,7 @@ _The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 
 <div class='paper-box-text' markdown="1">
 [Efficient Trajectory Similarity Computation with Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3511808.3557308) 
 
-L. Deng, Y. Zhao, Zidan Fu, **Hao Sun**, S. Liu, K. Zheng 
+L. Deng, Y. Zhao, Z. Fu, **Hao Sun**, S. Liu, K. Zheng 
 
 _The ACM International Conference on Information and Knowledge Management_ (**CIKM**), 2022
 
@@ -293,7 +293,7 @@ _The ACM International Conference on Information and Knowledge Management_ (**CI
 <div class='paper-box-text' markdown="1">
 [Efficient and Effective Similar Subtrajectory Search: A Spatial-aware Comprehension Approach](https://dl.acm.org/doi/pdf/10.1145/3456723) 
 
-L. Deng, **Hao Sun**, Rui Sun, Y. Zhao, Han Su
+L. Deng, **Hao Sun**, R. Sun, Y. Zhao, H. Su
 
 _The ACM Transactions on Intelligent Systems and Technology_ (**TIST**), 2022
 
@@ -313,7 +313,7 @@ _The ACM Transactions on Intelligent Systems and Technology_ (**TIST**), 2022
 
 [Fusing Local and Global Mobility Patterns for Trajectory Recovery](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_29) 
 
-L. Deng, Y. Zhao, **Hao Sun**, C. Y.g, Jiandong Xie, K. Zheng
+L. Deng, Y. Zhao, **Hao Sun**, C. Yang, J. Xie, K. Zheng
 
 _The ACM International Conference on Information and Knowledge Management_ (**CIKM**), 2022
 
@@ -330,7 +330,7 @@ _The ACM International Conference on Information and Knowledge Management_ (**CI
 <div class='paper-box-text' markdown="1">
 [Boosting Disfluency Detection with Large Language Model as Disfluency Generator](https://arxiv.org/pdf/2403.08229.pdf)
 
-Zhenrong Cheng, JiaY. Guo, **Hao Sun**, Y. Zhang
+Z. Cheng, J. Guo, **Hao Sun**, Y. Zhang
 
 _The IEEE International Conference on Multimedia & Expo_ (**ICME**), 2024
 
@@ -350,7 +350,7 @@ _The IEEE International Conference on Multimedia & Expo_ (**ICME**), 2024
 
 Y. Cui, **Hao Sun**, Y. Zhao, H. Yin, K. Zheng
 
-_The ACM Transactions on Information Systems_ (**TOIS**), 2021**
+_The ACM Transactions on Information Systems_ (**TOIS**), 2021
 
  <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
 
