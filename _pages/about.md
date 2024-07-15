@@ -45,7 +45,7 @@ My current research interests include **Information Retrieval** and **Large Lang
  
 **Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
 
-**Arxiv** 
+_Arxiv_, 2024
 
  <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
 
@@ -68,7 +68,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, Y. Jiang, B. Wang, Y. Hou, Y. Zhang, P. Xie, F. Huang 
 
-**Arxiv** 
+_Arxiv_, 2024
 
 **Enabling LLMs to learn from mistakes by proving question-level and task-level principles.**
 
@@ -87,7 +87,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, J. Wu, H. Cai, X. Wei, Y. Feng, B. Wang, S. Wang, Y. Zhang, D. Yin 
 
-**Arxiv** 
+_Arxiv_, 2024
 
  <a href="https://arxiv.org"><strong>Paper</strong></a>
 
@@ -106,7 +106,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, X. Liu, Y. Gong, A. Dong, G. Shi, Y. Zhang, L. Yang, N. Duan
 
-**Arxiv** 
+_Arxiv_, 2024
 
  <a href="https://arxiv.org"><strong>Paper</strong></a>
 
@@ -124,7 +124,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, X. Liu, Y. Gong, A. Dong, J. Lu, Y. Zhang, L. Yang, R. Majumder, N. Duan 
 
-**The ACM International Conference on Web Search and Data Mining (WSDM), 2024, Oral**
+_The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 2024, Oral
 
 <a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a>
 \|
@@ -144,7 +144,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, X. Liu, Y. Gong, Y. Zhang, N. Duan
 
-**The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023, Findings** 
+_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2023, Findings
 
 <a href="https://aclanthology.org/2023.findings-emnlp.247.pdf"><strong>Paper</strong></a>
 \|
@@ -163,7 +163,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, Y.g Li, L. Deng, B. Li, B. Hui, B. Li, Y. Lan, Y. Zhang, Y. Li
 
-**The Annual Meeting of the Association for Computational Linguistics (ACL), 2023** 
+_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2023
 
 <a href="https://arxiv.org/pdf/2306.06872.pdf"><strong>Paper</strong></a>
 
@@ -180,7 +180,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, Y. Li, Y. Zhang
 
-**The SIAM International Conference on Data Mining (SDM), 2022**
+_The SIAM International Conference on Data Mining_ (**SDM**), 2022
 
 <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14"><strong>Paper</strong></a> 
 \|
@@ -200,7 +200,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, C. Y.g, L. Deng, F. Zhou, F. Huang, K. Zheng
 
-**The ACM International Conference on Information and Knowledge Management (CIKM), 2022**
+_The ACM International Conference on Information and Knowledge Management_ (**CIKM**), 2022
 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3482284"><strong>Paper</strong></a>
 \|
@@ -220,7 +220,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, Z. Wu, Y. Cui, L. Deng, Y. Zhao, K. Zheng
 
-**The International Conference on Database Systems for Advanced Applications (DASFAA), 2021**
+_The International Conference on Database Systems for Advanced Applications_ (**DASFAA**), 2021
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a>
 
@@ -240,7 +240,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 L. Deng, **Hao Sun**, Y. Zhao, S. Liu, K. Zheng 
 
-**In ACM International Conference on Web Search and Data Mining (WSDM), 2023**
+_The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 2023
 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3539597.3570410"><strong>Paper</strong></a>
 
@@ -257,7 +257,7 @@ L. Deng, **Hao Sun**, Y. Zhao, S. Liu, K. Zheng
 
 Y. Wang, Y. Hou, H. Wang, Z. Miao, S. Wu, **Hao Sun**, Q. Chen, Y. Xia, C. Chi, G. Zhao, Z. Liu, X. Xie, H. Allen Sun, W. Deng, Q. Zhang, M. Yang
 
-**The Annual Conference on Neural Information Processing Systems (NeurIPS), 2022**
+_The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2022
 
 <a href="https://arxiv.org/pdf/2206.02743.pdf"><strong>Paper</strong></a>
 \|
@@ -277,7 +277,7 @@ Y. Wang, Y. Hou, H. Wang, Z. Miao, S. Wu, **Hao Sun**, Q. Chen, Y. Xia, C. Chi, 
 
 L. Deng, Y. Zhao, Zidan Fu, **Hao Sun**, S. Liu, K. Zheng 
 
-**The ACM International Conference on Information and Knowledge Management (CIKM), 2022**
+_The ACM International Conference on Information and Knowledge Management_ (**CIKM**), 2022
 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557308"><strong>Paper</strong></a> 
 
@@ -295,7 +295,7 @@ L. Deng, Y. Zhao, Zidan Fu, **Hao Sun**, S. Liu, K. Zheng
 
 L. Deng, **Hao Sun**, Rui Sun, Y. Zhao, Han Su
 
-**The ACM Transactions on Intelligent Systems and Technology (TIST), 2022**
+_The ACM Transactions on Intelligent Systems and Technology_ (**TIST**), 2022
 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3456723"><strong>Paper</strong></a> 
 
@@ -315,7 +315,7 @@ L. Deng, **Hao Sun**, Rui Sun, Y. Zhao, Han Su
 
 L. Deng, Y. Zhao, **Hao Sun**, C. Y.g, Jiandong Xie, K. Zheng
 
-**The ACM International Conference on Information and Knowledge Management (CIKM), 2022**
+_The ACM International Conference on Information and Knowledge Management_ (**CIKM**), 2022
 
  <a href="https://link.springer.com/chapter/10.1007/978-3-031-30637-2_29"><strong>Paper</strong></a> 
 
@@ -332,7 +332,7 @@ L. Deng, Y. Zhao, **Hao Sun**, C. Y.g, Jiandong Xie, K. Zheng
 
 Zhenrong Cheng, JiaY. Guo, **Hao Sun**, Y. Zhang
 
-**The IEEE International Conference on Multimedia & Expo (ICME), 2024**
+_The IEEE International Conference on Multimedia & Expo_ (**ICME**), 2024
 
  <a href="https://arxiv.org/pdf/2403.08229.pdf"><strong>Paper</strong></a> 
 
@@ -350,7 +350,7 @@ Zhenrong Cheng, JiaY. Guo, **Hao Sun**, Y. Zhang
 
 Y. Cui, **Hao Sun**, Y. Zhao, H. Yin, K. Zheng
 
-**The ACM Transactions on Information Systems (TOIS), 2021**
+_The ACM Transactions on Information Systems_ (**TOIS**), 2021**
 
  <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
 
