@@ -3,8 +3,8 @@ permalink: /
 title: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+ - /about/
+ - /about.html
 
 
 ---
@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now a Ph.D. candidate in [School of Intelligence Science and Technology ](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Yan Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my Bachlor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [Kai Zheng](http://zheng-kai.com/). I’ve also spent time at [Baidu](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [Alibaba](https://www.alibaba.com/) and [Huawei](https://www.huawei.com/).
+I'm now a Ph.D. candidate in [School of Intelligence Science and Technology ](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Yan Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [Kai Zheng](http://zheng-kai.com/). I’ve also spent time at [Baidu](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [Alibaba](https://www.alibaba.com/) and [Huawei](https://www.huawei.com/).
 
 My current research interests include **Information Retrieval** and **Large Language Models**. If you are also interested, please feel free to drop me an email.
 
@@ -28,7 +28,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 - *2023.12*: &nbsp;🎉🎉  My paper entitled “Towards Verifiable Text Generation with Evolving Memory and Self-Reflection” is available on [Arxiv](http://arxiv.org/abs/2312.09075)!
 - *2023.10*: &nbsp;🎉🎉  My paper entitled “LEAD: Liberal Feature-based Distillation for Dense Retrieval” was accepted by [WSDM 2024](https://www.wsdm-conference.org/2024/)! 
 - *2023.10*: &nbsp;🎉🎉  My paper entitled “Allies: Prompting Large Language Model with Beam Search” was accepted by [EMNLP 2023](https://2023.emnlp.org/)!
-- *2023.08*: &nbsp;🎉🎉  Awarded as Stars of Tomorrow during internship at Microsoft!
+- *2023.08*: &nbsp;🎉🎉  Awarded as Stars of Tomorrow during an internship at Microsoft!
 
 # 📒 Preprint
 
@@ -115,9 +115,11 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **WSDM 2024  (Oral)**
 
-<a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a> \| <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
+<a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
 
-**Distill the intermediate features from teacher to student without the constraints on model architecture.**
+**Distill the intermediate features from teacher to student without the constraints on model architecture or tokenizers.**
 </div>
 </div>
 
@@ -132,7 +134,9 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **EMNLP 2023  (Findings)** 
 
- <a href="https://aclanthology.org/2023.findings-emnlp.247.pdf"><strong>Paper</strong></a> \| <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
+<a href="https://aclanthology.org/2023.findings-emnlp.247.pdf"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
 
 **Improving the knowledge scope and robustness of LLMs with Beam Search.**
 
@@ -166,7 +170,9 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **SDM 2022**
 
-<a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/ConLearn"><strong>Code</strong></a>
+<a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14"><strong>Paper</strong></a> 
+\|
+<a href="https://github.com/sunhaonlp/ConLearn"><strong>Code</strong></a>
 
 **Capturing complex transition patterns between concepts through Graph Neural Network.**
 
@@ -184,7 +190,9 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **CIKM 2022**
 
- <a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3482284"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3482284"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
 
 **Capturing multi-level periodicity and shifting periodicity of human mobility using attention mechanism.**
 
@@ -202,7 +210,9 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **DASFAA 2021**
 
- <a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
 
 **Providing personalized and hybrid explanations for the recommendations.**
 
@@ -222,7 +232,9 @@ Liwei Deng, **Hao Sun**, Yan Zhao, Shuncheng Liu, Kai Zheng
 
 **WSDM 2023**
 
- <a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a> | <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
 
 **Capture fine-grained intra-trajectory information by passing the trajectories into the sequential neural networks.**
 </div>
@@ -241,7 +253,9 @@ Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, **Hao Sun**, Qi C
 
 **NeurIPS 2022**
 
- <a href="https://arxiv.org/pdf/2206.02743.pdf"><strong>Paper</strong></a> | <a href="https://github.com/solidsea98/Neural-Corpus-Indexer-NCI"><strong>Code</strong></a>
+<a href="https://arxiv.org/pdf/2206.02743.pdf"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/solidsea98/Neural-Corpus-Indexer-NCI"><strong>Code</strong></a>
 
 **Propose an end-to-end differentiable document retrieval model that can significantly outperform both inverted index and dense retrieval solutions.**
 
@@ -336,7 +350,7 @@ Yue Cui, **Hao Sun**, Yan Zhao, Hongzhi Yin, Kai Zheng
 
  <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
 
-**Propose a meta-learned sequential-knowledge-aware recommender (Meta-SKR), which utilizes sequential, spatio-temporal, and social knowledge to recommend the next POI for a location-based social network user.**
+**Propose a meta-learned sequential-knowledge-aware recommender (Meta-SKR), which utilizes sequential, spatiotemporal, and social knowledge to recommend the next POI for a location-based social network user.**
 
 </div>
 </div>
@@ -345,17 +359,17 @@ Yue Cui, **Hao Sun**, Yan Zhao, Hongzhi Yin, Kai Zheng
 
 # 🎖 Honors and Awards
 
-- *2024.06*   First Prize of Challenge Cup Competition, Peking University.
-- *2024.03*   Academic Star Nomination.
-- *2023.09*   Merit Student of Peking University.
-- *2023.09*   Schlumberger Scholarship.
-- *2023.08*   Stars of Tomorrow Award at Microsoft, Microsoft.
-- *2023.06*   First Prize of Challenge Cup Competition, Peking University.
-- *2022.12*   Outstanding Paper Award, NeurIPS 2022.
-- *2021.06*   Outstanding Graduation Thesis for Undergraduates, UESTC.
-- *2021.06*   Outstanding Graduate, UESTC.
-- *2019.12*   National Scholarship.
-- *2018.09*   National Scholarship.
+- *2024.06* First Prize of Challenge Cup Competition, Peking University.
+- *2024.03* Academic Star Nomination.
+- *2023.09* Merit Student of Peking University.
+- *2023.09* Schlumberger Scholarship.
+- *2023.08* Stars of Tomorrow Award at Microsoft, Microsoft.
+- *2023.06* First Prize of Challenge Cup Competition, Peking University.
+- *2022.12* Outstanding Paper Award, NeurIPS 2022.
+- *2021.06* Outstanding Graduation Thesis for Undergraduates, UESTC.
+- *2021.06* Outstanding Graduate, UESTC.
+- *2019.12* National Scholarship.
+- *2018.09* National Scholarship.
 
 # 📖 Educations
 
@@ -369,7 +383,7 @@ Yue Cui, **Hao Sun**, Yan Zhao, Hongzhi Yin, Kai Zheng
 
 # 👩🏻‍🏫 Teaching
 
-- *Teaching Assistant,*  Computer Networks and Web Technologies, Peking University, Fall 2023
+- *Teaching Assistant,* Computer Networks and Web Technologies, Peking University, Fall 2023
 
 # 💻 Internships
 
