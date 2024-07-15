@@ -33,7 +33,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 # 📒 Preprint
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block;"><div><div class="badge">Arxiv</div><img src='../images/vtg.jpg' alt="sym" style="width: 100%; height: 150px; object-fit: cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; margin: auto;"><div><div class="badge">Arxiv</div><img src='../images/vtg.jpg' alt="sym" style="width: 100%; height: 150px; object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) 
 **Hao Sun**, Hengyi Cai, Bo Wang, Yingyan Hou, Xiaochi Wei, Shuaiqiang Wang, Yan Zhang, Dawei Yin 
