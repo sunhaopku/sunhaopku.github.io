@@ -115,9 +115,9 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **WSDM 2024  (Oral)**
 
-<a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a> | <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
+<a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a> \| <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
 
-**Distill the intermediate features from teacher to student without the constarint on model architecture.**
+**Distill the intermediate features from teacher to student without the constraints on model architecture.**
 </div>
 </div>
 
@@ -132,7 +132,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **EMNLP 2023  (Findings)** 
 
- <a href="https://aclanthology.org/2023.findings-emnlp.247.pdf"><strong>Paper</strong></a> | <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
+ <a href="https://aclanthology.org/2023.findings-emnlp.247.pdf"><strong>Paper</strong></a> \| <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
 
 **Improving the knowledge scope and robustness of LLMs with Beam Search.**
 
