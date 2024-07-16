@@ -70,9 +70,10 @@ _Arxiv_, 2024
 
 _Arxiv_, 2024
 
+<a href="https://arxiv.org/pdf/2407.05682"><strong>Paper</strong></a>
+
 **Enabling LLMs to learn from mistakes by proving question-level and task-level principles.**
 
- <a href="https://arxiv.org/pdf/2407.05682"><strong>Paper</strong></a>
 
 </div>
 </div>
@@ -281,7 +282,7 @@ _The ACM International Conference on Information and Knowledge Management_ (**CI
 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557308"><strong>Paper</strong></a> 
 
-**Employ a contrastive learning mechanism to learn the latent representations of trajectories and then calculate the dissimilarity between trajectories based on these representations.**
+**Employ a contrastive learning mechanism to learn the representations of trajectories, which are then used to calculate the dissimilarity between them.**
 
 </div>
 </div>
