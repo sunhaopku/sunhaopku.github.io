@@ -33,6 +33,25 @@ My current research interests include **Information Retrieval** and **Large Lang
 # 📒 Preprint
 
 
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Arxiv</div><img src='../images/simcns.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
+
+**Hao Sun**, X. Liu, Y. Gong, A. Dong, G. Shi, Y. Zhang, L. Yang, N. Duan
+
+_Arxiv_, 2024
+
+ <a href="https://arxiv.org"><strong>Paper</strong></a>
+
+**Select the most important negative samples for multi-source dense retrieval**
+
+</div>
+</div>
+
+
+# 📝 Publications
+
+
 <div class='paper-box'>
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
@@ -45,7 +64,7 @@ My current research interests include **Information Retrieval** and **Large Lang
  
 **Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
 
-_Arxiv_, 2024
+_EMNLP_, 2024
 
  <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
 
@@ -68,7 +87,7 @@ _Arxiv_, 2024
 
 **Hao Sun**, Y. Jiang, B. Wang, Y. Hou, Y. Zhang, P. Xie, F. Huang 
 
-_Arxiv_, 2024
+_EMNLP_, 2024
 
 <a href="https://arxiv.org/pdf/2407.05682"><strong>Paper</strong></a>
 
@@ -88,7 +107,7 @@ _Arxiv_, 2024
 
 **Hao Sun**, J. Wu, H. Cai, X. Wei, Y. Feng, B. Wang, S. Wang, Y. Zhang, D. Yin 
 
-_Arxiv_, 2024
+_EMNLP_, 2024
 
  <a href="https://arxiv.org"><strong>Paper</strong></a>
 
@@ -97,27 +116,6 @@ _Arxiv_, 2024
 </div>
 </div>
 
-
-
-
-
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Arxiv</div><img src='../images/simcns.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-[SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
-
-**Hao Sun**, X. Liu, Y. Gong, A. Dong, G. Shi, Y. Zhang, L. Yang, N. Duan
-
-_Arxiv_, 2024
-
- <a href="https://arxiv.org"><strong>Paper</strong></a>
-
-**Select the most important negative samples for multi-source dense retrieval**
-
-</div>
-</div>
-
-
-# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">WSDM 2024</div><img src='../images/LEAD.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
