@@ -65,7 +65,7 @@ _Arxiv_, 2024
  
 **Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
 
-_EMNLP_, 2024
+_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024
 
  <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
 
@@ -88,7 +88,7 @@ _EMNLP_, 2024
 
 **Hao Sun**, Y. Jiang, B. Wang, Y. Hou, Y. Zhang, P. Xie, F. Huang 
 
-_EMNLP_, 2024
+_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024
 
 <a href="https://arxiv.org/pdf/2407.05682"><strong>Paper</strong></a>
 
@@ -108,7 +108,7 @@ _EMNLP_, 2024
 
 **Hao Sun**, J. Wu, H. Cai, X. Wei, Y. Feng, B. Wang, S. Wang, Y. Zhang, D. Yin 
 
-_EMNLP_, 2024
+_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024
 
  <a href="https://arxiv.org"><strong>Paper</strong></a>
 
