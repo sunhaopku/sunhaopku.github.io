@@ -24,6 +24,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉  Three papers are accepted by EMNLP!
 - *2024.04*: &nbsp;🎉🎉  Nominated for the Academic Star Award!
 - *2023.12*: &nbsp;🎉🎉  My paper entitled “Towards Verifiable Text Generation with Evolving Memory and Self-Reflection” is available on [Arxiv](http://arxiv.org/abs/2312.09075)!
 - *2023.10*: &nbsp;🎉🎉  My paper entitled “LEAD: Liberal Feature-based Distillation for Dense Retrieval” was accepted by [WSDM 2024](https://www.wsdm-conference.org/2024/)! 
