@@ -32,8 +32,6 @@ My current research interests include **Information Retrieval** and **Large Lang
 - *2023.08*: &nbsp;🎉🎉  Awarded as Stars of Tomorrow during an internship at Microsoft!
 
 # 📒 Preprint
-
-
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Arxiv</div><img src='../images/simcns.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
@@ -51,8 +49,6 @@ _Arxiv_, 2024
 
 
 # 📝 Publications
-
-
 <div class='paper-box'>
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
@@ -100,8 +96,6 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 
 
-
-
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">EMNLP</div><img src='../images/adaswitch.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning](https://arxiv.org) 
@@ -116,6 +110,7 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">WSDM 2024</div><img src='../images/LEAD.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
@@ -134,7 +129,6 @@ _The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 202
 
 </div>
 </div>
-
 
 
 
@@ -193,7 +187,6 @@ _The SIAM International Conference on Data Mining_ (**SDM**), 2022
 
 
 
-
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">CIKM 2021</div><img src='../images/periodicmove.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network](https://dl.acm.org/doi/pdf/10.1145/3459637.3482284) 
@@ -210,7 +203,6 @@ _The ACM International Conference on Information and Knowledge Management_ (**CI
 
 </div>
 </div>
-
 
 
 
@@ -231,9 +223,6 @@ _The International Conference on Database Systems for Advanced Applications_ (**
 
 
 
-
-
-
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">WSDM 2023</div><img src='../images/s2tul.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [S2TUL: A Semi-Supervised Framework for Trajectory-User Linking](https://dl.acm.org/doi/pdf/10.1145/3539597.3570410)  
@@ -247,7 +236,6 @@ _The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 202
 **Capture fine-grained intra-trajectory information by passing the trajectories into the sequential neural networks.**
 </div>
 </div>
-
 
 
 
@@ -270,7 +258,6 @@ _The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 
 
 
 
-
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">CIKM 2022</div><img src='../images/CL-TSim.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Efficient Trajectory Similarity Computation with Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3511808.3557308) 
@@ -285,7 +272,6 @@ _The ACM International Conference on Information and Knowledge Management_ (**CI
 
 </div>
 </div>
-
 
 
 
@@ -306,8 +292,6 @@ _The ACM Transactions on Intelligent Systems and Technology_ (**TIST**), 2022
 
 
 
-
-
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">CIKM 2022</div><img src='../images/trill.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -325,7 +309,6 @@ _The ACM International Conference on Information and Knowledge Management_ (**CI
 
 
 
-
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">ICME 2024</div><img src='../images/DisAug.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Boosting Disfluency Detection with Large Language Model as Disfluency Generator](https://arxiv.org/pdf/2403.08229.pdf)
@@ -340,7 +323,6 @@ _The IEEE International Conference on Multimedia & Expo_ (**ICME**), 2024
 
 </div>
 </div>
-
 
 
 
