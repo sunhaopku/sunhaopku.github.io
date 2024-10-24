@@ -60,6 +60,7 @@ _Arxiv_, 2024
 </div>
 <div class='paper-box-text' markdown="1">
 [Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) 
+
 **Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
 
 _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024
