@@ -54,7 +54,7 @@ _Arxiv_, 2024
 <div class='paper-box'>
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
-<div class="badge">EMNLP</div>
+<div class="badge">EMNLP 2024</div>
 <img src='../images/vtg.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
 </div>
 </div>
@@ -77,7 +77,7 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 <div class='paper-box'>
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
-<div class="badge">EMNLP</div>
+<div class="badge">EMNLP 2024</div>
 <img src='../images/ricp.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
 </div>
 </div>
@@ -98,7 +98,7 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">EMNLP</div><img src='../images/adaswitch.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">EMNLP 2024</div><img src='../images/adaswitch.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning](https://arxiv.org/pdf/2410.13181) 
 
