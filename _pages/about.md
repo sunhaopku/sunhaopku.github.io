@@ -33,22 +33,6 @@ My current research interests include **Information Retrieval** and **Large Lang
 - *2023.10*: &nbsp;🎉🎉  My paper entitled “Allies: Prompting Large Language Model with Beam Search” was accepted by [EMNLP 2023](https://2023.emnlp.org/)!
 - *2023.08*: &nbsp;🎉🎉  Awarded as Stars of Tomorrow during an internship at Microsoft!
 
-# 📒 Preprint
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Arxiv</div><img src='../images/simcns.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-[SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
-
-**Hao Sun**, X. Liu, Y. Gong, A. Dong, G. Shi, Y. Zhang, L. Yang, N. Duan
-
-_Arxiv_, 2024
-
- <a href="https://arxiv.org"><strong>Paper</strong></a>
-
-**Select the most important negative samples for multi-source dense retrieval**
-
-</div>
-</div>
-
 
 # 📝 Publications
 <div class='paper-box'>
@@ -90,7 +74,7 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 <a href="https://arxiv.org/pdf/2407.05682"><strong>Paper</strong></a>
 
-**Enabling LLMs to learn from mistakes by proving question-level and task-level principles.**
+**Enabling LLMs to learn from mistakes by providing question-level and task-level principles.**
 
 
 </div>
@@ -127,7 +111,7 @@ _The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 202
 \|
 <a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
 
-**Distill the intermediate features from teacher to student without the constraints on model architecture or tokenizers.**
+**Distilling the intermediate features from teacher to student without the constraints on model architecture or tokenizers.**
 
 </div>
 </div>
@@ -343,6 +327,22 @@ _The ACM Transactions on Information Systems_ (**TOIS**), 2021
 </div>
 </div>
 
+
+# 📒 Preprint
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Arxiv</div><img src='../images/simcns.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
+
+**Hao Sun**, X. Liu, Y. Gong, A. Dong, G. Shi, Y. Zhang, L. Yang, N. Duan
+
+_Arxiv_, 2024
+
+ <a href="https://arxiv.org"><strong>Paper</strong></a>
+
+**Improving multi-source dense retrieval with Curriculum Negative Sampling.**
+
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
