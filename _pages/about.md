@@ -47,7 +47,7 @@ My current research interests include **RAG**, **Agent** and **LLMs**. If you ar
 
 **Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
 
-_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024, main
+_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024
 
  <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
 
