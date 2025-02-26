@@ -20,7 +20,7 @@ redirect_from:
 
 I'm now a Ph.D. candidate in [School of Intelligence Science and Technology ](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Y. Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [K. Zheng](http://zheng-K..com/). I’ve also spent time at [Baidu](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [Alibaba](https://www.alibaba.com/) and [Huawei](https://www.huawei.com/).
 
-My current research interests include **Information Retrieval** and **Large Language Models**. If you are also interested, please feel free to drop me an email.
+My current research interests include **RAG**, **Agent** and **LLMs**. If you are also interested, please feel free to drop me an email.
 
 
 # 🔥 News
@@ -47,7 +47,7 @@ My current research interests include **Information Retrieval** and **Large Lang
 
 **Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
 
-_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024
+_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024, main
 
  <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
 
@@ -366,7 +366,7 @@ _Arxiv_, 2024
 
 # 📚 Academic Services
 
-- **Program Committee / Reviewer**: ACL 2022-23, EMNLP 2022-23, WWW 2023, IJCAI 2023
+- **Program Committee / Reviewer**: ARR 2022-25, NeurIPS 2024-2025, ICLR 2024-2025, ICML 2024-2025
 - **Secondary Reviewer**: AAAI 2022, CIKM 2021-22, ICDM 2021-23, COLING 2022-23, DASFAA 2022-23
 
 # 👩🏻‍🏫 Teaching
@@ -375,6 +375,7 @@ _Arxiv_, 2024
 
 # 💻 Internships
 
+- [Tongyi Lab](https://tongyi.aliyun.com/), focusing on Agent.
 - [Baidu Research](http://research.baidu.com/), focusing on large language models.
 - [Microsoft Research Asia (MSRA)](https://www.msra.cn/), focusing on dense retrieval.
 - [DAMO Academy](https://damo.alibaba.com/), focusing on multi-turn conversation.
