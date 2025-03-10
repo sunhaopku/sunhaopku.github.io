@@ -209,6 +209,78 @@ _The International Conference on Database Systems for Advanced Applications_ (**
 
 
 
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NeurIPS 2022</div><img src='../images/nci.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Cross-model Control: Improving Multiple Large Language Models in One-time Training](https://arxiv.org/pdf/2410.17599) 
+
+J. Wu, **Hao Sun**, H Cai, L Su, S Wang, D Yin, X Li, M Gao
+
+_The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024
+
+<a href="[https://arxiv.org/pdf/2410.17599](https://arxiv.org/pdf/2410.17599)"><strong>Paper</strong></a>
+
+**Improves multiple LLMs in one-time training with a portable tiny language model.**
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NeurIPS 2022</div><img src='../images/nci.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743.pdf) 
+
+Y. Wang, Y. Hou, H. Wang, Z. Miao, S. Wu, **Hao Sun**, Q. Chen, Y. Xia, C. Chi, G. Zhao, Z. Liu, X. Xie, H. Allen Sun, W. Deng, Q. Zhang, M. Yang
+
+_The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024
+
+<a href="https://arxiv.org/pdf/2206.02743.pdf"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/solidsea98/Neural-Corpus-Indexer-NCI"><strong>Code</strong></a>
+
+**Propose an end-to-end differentiable document retrieval model that can significantly outperform both inverted index and dense retrieval solutions.**
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NeurIPS 2022</div><img src='../images/nci.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization](https://arxiv.org/pdf/2412.14510) 
+
+J. Wu, H. Cai, L. Yan, **Hao Sun**, X. Li, S. Wang, D. Yin, M. Gao
+
+_The Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics_ (**NAACL**), 2025
+
+<a href="https://arxiv.org/pdf/2412.14510"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/wujwyi/PA-RAG"><strong>Code</strong></a>
+
+**Optimizing the RAG generator to align with RAG requirements comprehensively.**
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">TOIS 2021</div><img src='../images/skr.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3460198) 
+
+Y. Cui, **Hao Sun**, Y. Zhao, H. Yin, K. Zheng
+
+_The ACM Transactions on Information Systems_ (**TOIS**), 2021
+
+ <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
+
+**Utilize sequential, spatiotemporal, and social knowledge to recommend the next POI for a location-based social network user.**
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">WSDM 2023</div><img src='../images/s2tul.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [S2TUL: A Semi-Supervised Framework for Trajectory-User Linking](https://dl.acm.org/doi/pdf/10.1145/3539597.3570410)  
@@ -225,19 +297,17 @@ _The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 202
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NeurIPS 2022</div><img src='../images/nci.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">CIKM 2022</div><img src='../images/CL-TSim.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
-[A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743.pdf) 
+[Robust domain misinformation detection via multi-modal feature alignment](https://dl.acm.org/doi/10.1109/TIFS.2023.3326368) 
 
-Y. Wang, Y. Hou, H. Wang, Z. Miao, S. Wu, **Hao Sun**, Q. Chen, Y. Xia, C. Chi, G. Zhao, Z. Liu, X. Xie, H. Allen Sun, W. Deng, Q. Zhang, M. Yang
+H. Liu, W. Wang, H. Sun, A. Rocha, H. Li
 
-_The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2022
+_IEEE Transactions on Information Forensics and Security_ (**TIFS**), 2024
 
-<a href="https://arxiv.org/pdf/2206.02743.pdf"><strong>Paper</strong></a>
-\|
-<a href="https://github.com/solidsea98/Neural-Corpus-Indexer-NCI"><strong>Code</strong></a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557308"><strong>Paper</strong></a> 
 
-**Propose an end-to-end differentiable document retrieval model that can significantly outperform both inverted index and dense retrieval solutions.**
+**Propose a novel robust domain and cross-modal approach (RDCM) for multi-modal misinformation detection.**
 
 </div>
 </div>
@@ -311,21 +381,6 @@ _The IEEE International Conference on Multimedia & Expo_ (**ICME**), 2024
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">TOIS 2021</div><img src='../images/skr.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-[Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3460198) 
-
-Y. Cui, **Hao Sun**, Y. Zhao, H. Yin, K. Zheng
-
-_The ACM Transactions on Information Systems_ (**TOIS**), 2021
-
- <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
-
-**Utilize sequential, spatiotemporal, and social knowledge to recommend the next POI for a location-based social network user.**
-
-</div>
-</div>
 
 
 # 📒 Preprint
