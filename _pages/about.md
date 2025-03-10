@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now a Ph.D. candidate in [School of Intelligence Science and Technology ](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Y. Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [K. Zheng](http://zheng-K..com/). I’ve also spent time at [Baidu](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [Alibaba](https://www.alibaba.com/) and [Huawei](https://www.huawei.com/).
+I'm now a Ph.D. candidate in [School of Intelligence Science and Technology ](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Y. Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [K. Zheng](http://zheng-Kai.com/). I’ve also spent time at [Tongyi Lab](https://tongyi.aliyun.com/), [Baidu Reserch](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [DAMO Academy]([https://www.alibaba.com/](https://damo.alibaba.com/)) and [Huawei](https://www.huawei.com/).
 
 My current research interests include **RAG**, **Agent** and **LLMs**. If you are also interested, please feel free to drop me an email.
 
