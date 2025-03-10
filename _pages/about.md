@@ -209,7 +209,7 @@ _The International Conference on Database Systems for Advanced Applications_ (**
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NeurIPS 2022</div><img src='../images/nci.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NeurIPS 2024</div><img src='../images/cmc.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Cross-model Control: Improving Multiple Large Language Models in One-time Training](https://arxiv.org/pdf/2410.17599) 
 
@@ -217,7 +217,7 @@ J. Wu, **Hao Sun**, H Cai, L Su, S Wang, D Yin, X Li, M Gao
 
 _The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024
 
-<a href="[https://arxiv.org/pdf/2410.17599](https://arxiv.org/pdf/2410.17599)"><strong>Paper</strong></a>
+<a href="https://arxiv.org/pdf/2410.17599"><strong>Paper</strong></a>
 
 **Improves multiple LLMs in one-time training with a portable tiny language model.**
 
@@ -245,7 +245,7 @@ _The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NeurIPS 2022</div><img src='../images/nci.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NAACL 2025</div><img src='../images/parag.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization](https://arxiv.org/pdf/2412.14510) 
 
@@ -281,6 +281,23 @@ _The ACM Transactions on Information Systems_ (**TOIS**), 2021
 
 
 
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">TIFS 2024</div><img src='../images/tifs.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Robust domain misinformation detection via multi-modal feature alignment](https://dl.acm.org/doi/10.1109/TIFS.2023.3326368) 
+
+H. Liu, W. Wang, H. Sun, A. Rocha, H. Li
+
+_IEEE Transactions on Information Forensics and Security_ (**TIFS**), 2024
+
+<a href="https://dl.acm.org/doi/10.1109/TIFS.2023.3326368"><strong>Paper</strong></a> 
+
+**Propose a novel robust domain and cross-modal approach (RDCM) for multi-modal misinformation detection.**
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">WSDM 2023</div><img src='../images/s2tul.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [S2TUL: A Semi-Supervised Framework for Trajectory-User Linking](https://dl.acm.org/doi/pdf/10.1145/3539597.3570410)  
@@ -297,20 +314,6 @@ _The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 202
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">CIKM 2022</div><img src='../images/CL-TSim.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-[Robust domain misinformation detection via multi-modal feature alignment](https://dl.acm.org/doi/10.1109/TIFS.2023.3326368) 
-
-H. Liu, W. Wang, H. Sun, A. Rocha, H. Li
-
-_IEEE Transactions on Information Forensics and Security_ (**TIFS**), 2024
-
-<a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557308"><strong>Paper</strong></a> 
-
-**Propose a novel robust domain and cross-modal approach (RDCM) for multi-modal misinformation detection.**
-
-</div>
-</div>
 
 
 
