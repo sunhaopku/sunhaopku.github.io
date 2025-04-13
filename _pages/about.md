@@ -18,16 +18,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 4th-year PhD candidate in [School of Intelligence Science and Technology ](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Y. Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [K. Zheng](http://zheng-Kai.com/). I’ve also spent time at [Tongyi Lab](https://tongyi.aliyun.com/), [Baidu Reserch](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [DAMO Academy]([https://www.alibaba.com/](https://damo.alibaba.com/)) and [Huawei](https://www.huawei.com/).
+I am a 4th-year PhD candidate in [School of Intelligence Science and Technology](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Y. Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [K. Zheng](http://zheng-Kai.com/). I’ve also spent time at [Tongyi Lab](https://tongyi.aliyun.com/), [Baidu Reserch](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [DAMO Academy]([https://www.alibaba.com/](https://damo.alibaba.com/)) and [Huawei](https://www.huawei.com/).
 
 My current research interests include **RAG**, **Agent** and **LLMs**. If you are also interested, please feel free to drop me an email.
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉  I have won the Academic Star Award (Top-5 students in School of Intelligence Science and Technology)!
 - *2024.09*: &nbsp;🎉🎉  My paper entitled “Towards Verifiable Text Generation with Evolving Memory and Self-Reflection” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 - *2024.09*: &nbsp;🎉🎉  My paper entitled “Retrieved In-Context Principles from Previous Mistakes” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 - *2024.09*: &nbsp;🎉🎉  My paper entitled “AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
-- *2024.04*: &nbsp;🎉🎉  Nominated for the Academic Star Award!
 - *2023.12*: &nbsp;🎉🎉  My paper entitled “Towards Verifiable Text Generation with Evolving Memory and Self-Reflection” is available on [Arxiv](http://arxiv.org/abs/2312.09075)!
 - *2023.10*: &nbsp;🎉🎉  My paper entitled “LEAD: Liberal Feature-based Distillation for Dense Retrieval” was accepted by [WSDM 2024](https://www.wsdm-conference.org/2024/)! 
 - *2023.10*: &nbsp;🎉🎉  My paper entitled “Allies: Prompting Large Language Model with Beam Search” was accepted by [EMNLP 2023](https://2023.emnlp.org/)!
@@ -405,8 +405,8 @@ _Arxiv_, 2024
 
 # 🎖 Honors and Awards
 
+- *2025.04* Academic Star Award.
 - *2024.06* First Prize of Challenge Cup Competition, Peking University.
-- *2024.03* Academic Star Nomination.
 - *2023.09* Merit Student of Peking University.
 - *2023.09* Schlumberger Scholarship.
 - *2023.08* Stars of Tomorrow Award at Microsoft, Microsoft.
