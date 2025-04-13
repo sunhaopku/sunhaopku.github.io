@@ -28,10 +28,10 @@ My current research interests include **RAG**, **Agent** and **LLMs**. If you ar
 - *2024.09*: &nbsp;🎉🎉  My paper entitled “Towards Verifiable Text Generation with Evolving Memory and Self-Reflection” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 - *2024.09*: &nbsp;🎉🎉  My paper entitled “Retrieved In-Context Principles from Previous Mistakes” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 - *2024.09*: &nbsp;🎉🎉  My paper entitled “AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
-- *2023.12*: &nbsp;🎉🎉  My paper entitled “Towards Verifiable Text Generation with Evolving Memory and Self-Reflection” is available on [Arxiv](http://arxiv.org/abs/2312.09075)!
 - *2023.10*: &nbsp;🎉🎉  My paper entitled “LEAD: Liberal Feature-based Distillation for Dense Retrieval” was accepted by [WSDM 2024](https://www.wsdm-conference.org/2024/)! 
 - *2023.10*: &nbsp;🎉🎉  My paper entitled “Allies: Prompting Large Language Model with Beam Search” was accepted by [EMNLP 2023](https://2023.emnlp.org/)!
 - *2023.08*: &nbsp;🎉🎉  Awarded as Stars of Tomorrow during an internship at Microsoft!
+- *2023.05*: &nbsp;🎉🎉  My paper entitled “History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling” was accepted by [ACL 2023](https://2023.aclweb.org/)!
 
 
 # 📝 Publications
