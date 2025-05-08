@@ -24,6 +24,7 @@ My current research interests include **RAG**, **Agent** and **LLMs**. If you ar
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉  My paper entitled “ZeroSearch: Incentivize the Search Capability of LLMs without Searching” is on Arxiv!
 - *2025.04*: &nbsp;🎉🎉  I have won the Academic Star Award (Top-5 students in School of Intelligence Science and Technology)!
 - *2024.09*: &nbsp;🎉🎉  My paper entitled “Towards Verifiable Text Generation with Evolving Memory and Self-Reflection” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 - *2024.09*: &nbsp;🎉🎉  My paper entitled “Retrieved In-Context Principles from Previous Mistakes” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
@@ -32,6 +33,31 @@ My current research interests include **RAG**, **Agent** and **LLMs**. If you ar
 - *2023.10*: &nbsp;🎉🎉  My paper entitled “Allies: Prompting Large Language Model with Beam Search” was accepted by [EMNLP 2023](https://2023.emnlp.org/)!
 - *2023.08*: &nbsp;🎉🎉  Awarded as Stars of Tomorrow during an internship at Microsoft!
 - *2023.05*: &nbsp;🎉🎉  My paper entitled “History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling” was accepted by [ACL 2023](https://2023.aclweb.org/)!
+
+
+
+# 📝 Highlight
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Arxiv</div><img src='../images/zerosearch.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/pdf/2505.04588)
+
+**Hao Sun**, Z. Qiao, J. Guo, X. Fan, Y. Hou, Y. Jiang, P. Xie, F. Huang, Y. Zhang
+
+_Arxiv_, 2024
+
+<a href="https://alibaba-nlp.github.io/ZeroSearch/"><strong>Homepage</strong></a>
+\|
+<a href="https://arxiv.org/pdf/2505.04588"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/Alibaba-NLP/ZeroSearch"><strong>Code</strong></a>
+\|
+<a href="https://huggingface.co/collections/sunhaonlp/zerosearch-681b4ce012b9b6899832f4d0"><strong>Models</strong></a>
+
+**We propose a novel reinforcement learning framework that incentivizes the search capability of LLMs without interacting with real search engines.**
+
+</div>
+</div>
+
 
 
 # 📝 Publications
