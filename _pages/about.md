@@ -36,14 +36,14 @@ My current research interests include **RAG**, **Agent** and **LLMs**. If you ar
 
 
 
-# 📝 Highlight
+# 🌟 Highlight
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Arxiv</div><img src='../images/zerosearch.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/pdf/2505.04588)
 
 **Hao Sun**, Z. Qiao, J. Guo, X. Fan, Y. Hou, Y. Jiang, P. Xie, F. Huang, Y. Zhang
 
-_Arxiv_, 2024
+_Arxiv_, 2025
 
 <a href="https://alibaba-nlp.github.io/ZeroSearch/"><strong>Homepage</strong></a>
 \|
