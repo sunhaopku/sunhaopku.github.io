@@ -61,6 +61,20 @@ Under Review
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Under Review</div><img src='../images/hrm.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[HRM: Enhancing Agentic Retrieval Augmented Generation With Hierarchical Reward Modeling](https://arxiv.org)
+
+**Hao Sun**, Z. Qiao, B. Wang, G. Chen, Y. Hou, Y. Jiang, P. Xie, F. Huang, Y. Zhang
+
+Under Review
+
+<a href="https://arxiv.org"><strong>Paper</strong></a>
+
+**We introduce a novel Agentic RAG framework that decouples planning-search processes with dual value models, enabling independent optimization of planning reasoning and search grounding.**
+
+</div>
+</div>
 
 # 📝 Publications
 
