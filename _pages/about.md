@@ -76,7 +76,7 @@ Enhancing Retrieval-Augmented Generation via Evidence Tree Search
 
 **Hao Sun**, H Cai, Y. Li, X. Fan, X. Wei, S. Wang, Y. Zhang, D. Yin
 
-_The 63rd Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
 
 **Improving LLM generation with evidence tree search.**
 
@@ -96,7 +96,7 @@ Unveil: Unified Visual-Textual Integration and Distillation for Multi-modal Docu
 
 **Hao Sun**, Y. Hou, J. Guo, B. Wang, C. Yang, J. Ni, Y. Zhang
 
-_The 63rd Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
 
 **Transfer the semantic understanding capabilities from the visual-textual embedding model to a purely visual model.**
 
