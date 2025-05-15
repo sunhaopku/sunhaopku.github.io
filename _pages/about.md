@@ -104,27 +104,21 @@ _The 63rd Annual Meeting of the Association for Computational Linguistics_ (**AC
 </div>
 
 
-<div class='paper-box'>
-<div class='paper-box-image' style="display: inline-block; width: 100%;">
-<div>
-<div class="badge">EMNLP 2024</div>
-<img src='../images/vtg.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
-</div>
-</div>
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">ACL 2023</div><img src='../images/hsge.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
-[Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) 
+[History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling](https://arxiv.org/pdf/2306.06872.pdf)  
 
-**Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
+**Hao Sun**, Y.g Li, L. Deng, B. Li, B. Hui, B. Li, Y. Lan, Y. Zhang, Y. Li
 
-_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024
+_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2023
 
- <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
+<a href="https://arxiv.org/pdf/2306.06872.pdf"><strong>Paper</strong></a>
 
-**Improving citation generation with a two-tier verifier and active retrieval mechanism.**
+**Modeling history conversation information with History Semantic Graph.**
 
 </div>
 </div>
-
 
 
 
@@ -191,26 +185,6 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">WSDM 2024</div><img src='../images/LEAD.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-[LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf) 
-
-**Hao Sun**, X. Liu, Y. Gong, A. Dong, J. Lu, Y. Zhang, L. Yang, R. Majumder, N. Duan 
-
-_The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 2024, Oral
-
-<a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a>
-\|
-<a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
-
-**Distilling the intermediate features from teacher to student without the constraints on model architecture or tokenizers.**
-
-</div>
-</div>
-
-
-
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">EMNLP 2023</div><img src='../images/allies.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Allies: Prompting Large Language Model with Beam Search](https://aclanthology.org/2023.findings-emnlp.247.pdf)  
@@ -230,21 +204,22 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">ACL 2023</div><img src='../images/hsge.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">WSDM 2024</div><img src='../images/LEAD.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
-[History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling](https://arxiv.org/pdf/2306.06872.pdf)  
+[LEAD: Liberal Feature-based Distillation for Dense Retrieval](https://arxiv.org/pdf/2212.05225.pdf) 
 
-**Hao Sun**, Y.g Li, L. Deng, B. Li, B. Hui, B. Li, Y. Lan, Y. Zhang, Y. Li
+**Hao Sun**, X. Liu, Y. Gong, A. Dong, J. Lu, Y. Zhang, L. Yang, R. Majumder, N. Duan 
 
-_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2023
+_The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 2024, Oral
 
-<a href="https://arxiv.org/pdf/2306.06872.pdf"><strong>Paper</strong></a>
+<a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
 
-**Modeling history conversation information with History Semantic Graph.**
+**Distilling the intermediate features from teacher to student without the constraints on model architecture or tokenizers.**
 
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">SDM 2022</div><img src='../images/conlearn.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
