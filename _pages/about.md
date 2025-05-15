@@ -24,6 +24,8 @@ My current research interests include **RAG**, **Agent** and **LLMs**. If you ar
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉  My paper entitled “Enhancing Retrieval-Augmented Generation via Evidence Tree Search” was accepted by [ACL 2025](https://2025.aclweb.org/)!
+- *2025.05*: &nbsp;🎉🎉  My paper entitled “Unveil: Unified Visual-Textual Integration and Distillation for Multi-modal Document Retrieval” was accepted by [ACL 2025](https://2025.aclweb.org/)!
 - *2025.05*: &nbsp;🎉🎉  My paper entitled “ZeroSearch: Incentivize the Search Capability of LLMs without Searching” is on Arxiv!
 - *2025.04*: &nbsp;🎉🎉  I have won the Academic Star Award (Top-5 students in School of Intelligence Science and Technology)!
 - *2024.09*: &nbsp;🎉🎉  My paper entitled “Towards Verifiable Text Generation with Evolving Memory and Self-Reflection” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
@@ -61,6 +63,71 @@ _Arxiv_, 2025
 
 
 # 📝 Publications
+
+<div class='paper-box'>
+<div class='paper-box-image' style="display: inline-block; width: 100%;">
+<div>
+<div class="badge">ACL 2025</div>
+<img src='../images/ets.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+Enhancing Retrieval-Augmented Generation via Evidence Tree Search
+
+**Hao Sun**, H Cai, Y. Li, X. Fan, X. Wei, S. Wang, Y. Zhang, D. Yin
+
+_The 63rd Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+
+**Improving LLM generation with evidence tree search.**
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image' style="display: inline-block; width: 100%;">
+<div>
+<div class="badge">ACL 2025</div>
+<img src='../images/unveil.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+Unveil: Unified Visual-Textual Integration and Distillation for Multi-modal Document Retrieval
+
+**Hao Sun**, Y. Hou, J. Guo, B. Wang, C. Yang, J. Ni, Y. Zhang
+
+_The 63rd Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+
+**Transfer the semantic understanding capabilities from the visual-textual embedding model to a purely visual model.**
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image' style="display: inline-block; width: 100%;">
+<div>
+<div class="badge">EMNLP 2024</div>
+<img src='../images/vtg.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+[Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) 
+
+**Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
+
+_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024
+
+ <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
+
+**Improving citation generation with a two-tier verifier and active retrieval mechanism.**
+
+</div>
+</div>
+
+
+
+
 <div class='paper-box'>
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
