@@ -185,6 +185,7 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">EMNLP 2023</div><img src='../images/allies.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Allies: Prompting Large Language Model with Beam Search](https://aclanthology.org/2023.findings-emnlp.247.pdf)  
@@ -222,24 +223,6 @@ _The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 202
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">SDM 2022</div><img src='../images/conlearn.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-[ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14)  
-
-**Hao Sun**, Y. Li, Y. Zhang
-
-_The SIAM International Conference on Data Mining_ (**SDM**), 2022
-
-<a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14"><strong>Paper</strong></a> 
-\|
-<a href="https://github.com/sunhaonlp/ConLearn"><strong>Code</strong></a>
-
-**Capturing complex transition patterns between concepts through Graph Neural Network.**
-
-</div>
-</div>
-
-
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">CIKM 2021</div><img src='../images/periodicmove.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -254,6 +237,25 @@ _The ACM International Conference on Information and Knowledge Management_ (**CI
 <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
 
 **Capturing multi-level periodicity and shifting periodicity of human mobility using attention mechanism.**
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">SDM 2022</div><img src='../images/conlearn.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14)  
+
+**Hao Sun**, Y. Li, Y. Zhang
+
+_The SIAM International Conference on Data Mining_ (**SDM**), 2022
+
+<a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14"><strong>Paper</strong></a> 
+\|
+<a href="https://github.com/sunhaonlp/ConLearn"><strong>Code</strong></a>
+
+**Capturing complex transition patterns between concepts through Graph Neural Network.**
 
 </div>
 </div>
