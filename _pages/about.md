@@ -71,7 +71,7 @@ Under Review
 
 <a href="https://arxiv.org"><strong>Paper</strong></a>
 
-**We introduce a novel Agentic RAG framework that enables independent optimization of planning reasoning and search grounding with dual value models.**
+**We propose a novel Agentic RAG framework that independently optimizes planning reasoning and search grounding with dual value models.**
 
 </div>
 </div>
