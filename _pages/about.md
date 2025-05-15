@@ -78,7 +78,7 @@ Enhancing Retrieval-Augmented Generation via Evidence Tree Search
 
 _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
 
-**Improving LLM generation with evidence tree search.**
+**We propose ETS, a tree-based framework that enhances LLMs’ evidence-grounding through a tree expansion process.**
 
 </div>
 </div>
