@@ -72,11 +72,13 @@ _Arxiv_, 2025
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-Enhancing Retrieval-Augmented Generation via Evidence Tree Search
+[Enhancing Retrieval-Augmented Generation via Evidence Tree Search](https://arxiv.org)  
 
 **Hao Sun**, H Cai, Y. Li, X. Fan, X. Wei, S. Wang, Y. Zhang, D. Yin
 
 _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+
+<a href="https://arxiv.org"><strong>Paper</strong></a>
 
 **We propose ETS, a tree-based framework that enhances LLMs’ evidence-grounding through a tree expansion process.**
 
@@ -92,11 +94,13 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-Unveil: Unified Visual-Textual Integration and Distillation for Multi-modal Document Retrieval
+[Unveil: Unified Visual-Textual Integration and Distillation for Multi-modal Document Retrieval](https://arxiv.org)  
 
 **Hao Sun**, Y. Hou, J. Guo, B. Wang, C. Yang, J. Ni, Y. Zhang
 
 _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+
+<a href="https://arxiv.org"><strong>Paper</strong></a>
 
 **Transfer the semantic understanding capabilities from the visual-textual embedding model to a purely visual model.**
 
