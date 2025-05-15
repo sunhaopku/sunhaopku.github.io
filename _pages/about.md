@@ -475,13 +475,13 @@ _The IEEE International Conference on Multimedia & Expo_ (**ICME**), 2024
 
 
 # 📒 Preprint
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Arxiv</div><img src='../images/simcns.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Under Review</div><img src='../images/simcns.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
 
 **Hao Sun**, X. Liu, Y. Gong, A. Dong, G. Shi, Y. Zhang, L. Yang, N. Duan
 
-_Arxiv_, 2024
+Under Review
 
  <a href="https://arxiv.org"><strong>Paper</strong></a>
 
