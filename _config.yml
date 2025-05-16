@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Sun (孙浩)"
-description              : "Ph.D. Candidate at Peking University, focusing on RAG, Agent and LLMs."
+description              : "Ph.D. Candidate at Peking University, focusing on **RAG, Agent and LLMs**."
 repository               : "sunhaopku/sunhaopku.github.io"
 google_scholar_stats_use_cdn : true
 
