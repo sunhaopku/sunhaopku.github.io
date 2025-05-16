@@ -331,6 +331,21 @@ _The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">ACL 2025</div><img src='../images/icl.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Unraveling the Mechanics of Learning-Based Demonstration Selection for In-Context Learning](https://arxiv.org/pdf/2406.11890) 
+
+H. Liu, W. Wang, **Hao Sun**, C. TIAN, C. Kong, X. Dong, H. Li
+
+_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+
+<a href="https://arxiv.org/pdf/2406.11890"><strong>Paper</strong></a>
+
+**Analyze the working mechanism of learning-based demonstration selection methods .**
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NAACL 2025</div><img src='../images/parag.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
