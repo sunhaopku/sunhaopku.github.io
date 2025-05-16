@@ -22,6 +22,7 @@ I am a 4th-year PhD candidate in [School of Intelligence Science and Technology]
 
 My current research interests include **RAG**, **Agent** and **LLMs**. If you are also interested, please feel free to drop me an email.
 
+<p><span style="color: red;"><strong>I am expected to complete my Ph.D. in June 2026 and will be actively seeking opportunities in both industry and academia. If you are interested, please feel free to reach out.</strong></span></p>
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉  My paper entitled “Enhancing Retrieval-Augmented Generation via Evidence Tree Search” was accepted by [ACL 2025](https://2025.aclweb.org/)!
@@ -53,7 +54,7 @@ Under Review
 \|
 <a href="https://github.com/Alibaba-NLP/ZeroSearch"><strong>Code</strong></a>
 \|
-<a href="https://huggingface.co/collections/sunhaonlp/zerosearch-681b4ce012b9b6899832f4d0"><strong>Models</strong></a>
+<a href="https://huggingface.co/collections/sunhaonlp/zerosearch-681b4ce012b9b6899832f4d0"><strong>Models</strong></a> <span style="color: red;"><strong>800+ stars🌟!</strong></span>
 
 **We propose a novel reinforcement learning framework that incentivizes the search capability of LLMs without interacting with real search engines.**
 
