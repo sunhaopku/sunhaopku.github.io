@@ -52,7 +52,7 @@ Under Review
 \|
 <a href="https://github.com/Alibaba-NLP/ZeroSearch"><strong>Code</strong></a>
 \|
-<a href="https://huggingface.co/collections/sunhaonlp/zerosearch-681b4ce012b9b6899832f4d0"><strong>Models</strong></a> <span style="color: red;"><strong>800+ stars🌟!</strong></span>
+<a href="https://huggingface.co/collections/sunhaonlp/zerosearch-681b4ce012b9b6899832f4d0"><strong>Models</strong></a>  <span style="color: red;"><strong>800+ stars!</strong></span>
 
 **We propose a novel reinforcement learning framework that incentivizes the search capability of LLMs without interacting with real search engines.**
 
