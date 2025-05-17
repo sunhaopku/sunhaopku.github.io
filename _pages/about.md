@@ -324,7 +324,7 @@ _The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 
 
 <a href="https://arxiv.org/pdf/2206.02743.pdf"><strong>Paper</strong></a>
 \|
-<a href="https://github.com/solidsea98/Neural-Corpus-Indexer-NCI"><strong>Code</strong></a>  <p><span style="color: red;"><strong>🏆 Outstanding Paper Award!</strong></span></p>
+<a href="https://github.com/solidsea98/Neural-Corpus-Indexer-NCI"><strong>Code</strong></a>  <span style="color: red;"><strong>🏆 Outstanding Paper Award!</strong></span>
 
 **Propose an end-to-end differentiable document retrieval model that can significantly outperform both inverted index and dense retrieval solutions.**
 
