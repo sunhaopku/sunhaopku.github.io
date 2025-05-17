@@ -321,9 +321,10 @@ Y. Wang, Y. Hou, H. Wang, Z. Miao, S. Wu, **Hao Sun**, Q. Chen, Y. Xia, C. Chi, 
 
 _The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024
 
+
 <a href="https://arxiv.org/pdf/2206.02743.pdf"><strong>Paper</strong></a>
 \|
-<a href="https://github.com/solidsea98/Neural-Corpus-Indexer-NCI"><strong>Code</strong></a>
+<a href="https://github.com/solidsea98/Neural-Corpus-Indexer-NCI"><strong>Code</strong></a>  <p><span style="color: red;"><strong>🏆 Outstanding Paper Award!</strong></span></p>
 
 **Propose an end-to-end differentiable document retrieval model that can significantly outperform both inverted index and dense retrieval solutions.**
 
@@ -341,7 +342,7 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 
 <a href="https://arxiv.org/pdf/2406.11890"><strong>Paper</strong></a>
 
-**Analyze the working mechanism of learning-based demonstration selection methods .**
+**Analyze the working mechanism of learning-based demonstration selection methods.**
 
 </div>
 </div>
