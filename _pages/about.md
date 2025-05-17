@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 4th-year PhD candidate in [School of Intelligence Science and Technology](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Y. Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [K. Zheng](http://zheng-Kai.com/). I’ve also spent time at [Tongyi Lab](https://tongyi.aliyun.com/), [Baidu Reserch](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [DAMO Academy]([https://www.alibaba.com/](https://damo.alibaba.com/)) and [Huawei](https://www.huawei.com/).
+I am a 4th-year PhD candidate in [School of Intelligence Science and Technology](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Yan Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [Kai Zheng](http://zheng-Kai.com/). I’ve also spent time at [Tongyi Lab](https://tongyi.aliyun.com/), [Baidu Reserch](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [DAMO Academy]([https://www.alibaba.com/](https://damo.alibaba.com/)) and [Huawei](https://www.huawei.com/).
 
 <p><span style="color: red;"><strong>I am expected to complete my Ph.D. in June 2026 and will be actively seeking opportunities in both industry and academia. If you are interested, please feel free to reach out.</strong></span></p>
 
@@ -387,7 +387,7 @@ _The ACM Transactions on Information Systems_ (**TOIS**), 2021
 <div class='paper-box-text' markdown="1">
 [Robust domain misinformation detection via multi-modal feature alignment](https://dl.acm.org/doi/10.1109/TIFS.2023.3326368) 
 
-H. Liu, W. Wang, H. Sun, A. Rocha, H. Li
+H. Liu, W. Wang, **Hao Sun**, A. Rocha, H. Li
 
 _IEEE Transactions on Information Forensics and Security_ (**TIFS**), 2024
 
