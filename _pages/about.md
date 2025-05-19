@@ -305,6 +305,8 @@ J. Wu, **Hao Sun**, H Cai, L Su, S Wang, D Yin, X Li, M Gao
 _The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024
 
 <a href="https://arxiv.org/pdf/2410.17599"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/wujwyi/CMC"><strong>Code</strong></a>
 
 **Improves multiple LLMs in one-time training with a portable tiny language model.**
 
