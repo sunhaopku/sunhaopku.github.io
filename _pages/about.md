@@ -23,10 +23,11 @@ I am a 4th-year PhD candidate in [School of Intelligence Science and Technology]
 <p><span style="color: red;"><strong>I am expected to complete my Ph.D. in June 2026 and will be actively seeking opportunities in both industry and academia. If you are interested, please feel free to reach out.</strong></span></p>
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉  I am honored to receive the Presidential Scholarship (the highest honor for PhD students at PKU)!
 - *2025.05*: &nbsp;🎉🎉  My paper entitled “Enhancing Retrieval-Augmented Generation via Evidence Tree Search” was accepted by [ACL 2025](https://2025.aclweb.org/)!
 - *2025.05*: &nbsp;🎉🎉  My paper entitled “Unveil: Unified Visual-Textual Integration and Distillation for Multi-modal Document Retrieval” was accepted by [ACL 2025](https://2025.aclweb.org/)!
 - *2025.05*: &nbsp;🎉🎉  My paper entitled “ZeroSearch: Incentivize the Search Capability of LLMs without Searching” is on Arxiv!
-- *2025.04*: &nbsp;🎉🎉  I have won the Academic Star Award (Top-5 students in School of Intelligence Science and Technology)!
+- *2025.04*: &nbsp;🎉🎉  I am honored to receive the Academic Star Award (Top-5 students in School of Intelligence Science and Technology)!
 - *2024.09*: &nbsp;🎉🎉  My paper entitled “Towards Verifiable Text Generation with Evolving Memory and Self-Reflection” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 - *2024.09*: &nbsp;🎉🎉  My paper entitled “Retrieved In-Context Principles from Previous Mistakes” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 - *2024.09*: &nbsp;🎉🎉  My paper entitled “AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
@@ -52,7 +53,7 @@ Under Review
 \|
 <a href="https://github.com/Alibaba-NLP/ZeroSearch"><strong>Code</strong></a>
 \|
-<a href="https://huggingface.co/collections/sunhaonlp/zerosearch-681b4ce012b9b6899832f4d0"><strong>Models</strong></a>  <span style="color: red;"><strong>800+ stars!</strong></span>
+<a href="https://huggingface.co/collections/sunhaonlp/zerosearch-681b4ce012b9b6899832f4d0"><strong>Models</strong></a>  <span style="color: red;"><strong>900+ stars!</strong></span>
 
 **We propose a novel reinforcement learning framework that incentivizes the search capability of LLMs without interacting with real search engines.**
 
@@ -510,6 +511,7 @@ Under Review
 
 # 🎖 Honors and Awards
 
+- *2025.05* Presidential Scholarship, Peking University.
 - *2025.04* Academic Star Award, Peking University.
 - *2024.06* First Prize of Challenge Cup Competition, Peking University.
 - *2023.09* Merit Student of Peking University.
