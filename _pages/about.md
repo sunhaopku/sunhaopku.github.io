@@ -514,8 +514,8 @@ Under Review
 - *2025.05* Presidential Scholarship, Peking University.
 - *2025.04* Academic Star Award, Peking University.
 - *2024.06* First Prize of Challenge Cup Competition, Peking University.
-- *2023.09* Merit Student of Peking University.
-- *2023.09* Schlumberger Scholarship.
+- *2023.09* Merit Student, Peking University.
+- *2023.09* Schlumberger Scholarship, Peking University.
 - *2023.08* Stars of Tomorrow Award, Microsoft.
 - *2023.06* First Prize of Challenge Cup Competition, Peking University.
 - *2022.12* Outstanding Paper Award, NeurIPS 2022.
